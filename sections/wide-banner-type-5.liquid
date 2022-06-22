@@ -1,0 +1,136 @@
+{% if section.settings.use_bg_image %}
+{% if section.settings.image_1 != blank %}
+{%- assign img_url = section.settings.image_1 | img_url: '1920x' -%}
+{% else %}
+{% assign img_url = '//via.placeholder.com/1920x800' %}
+{% endif %}
+{% endif %}
+<div data-section-id="{{ section.id }}" data-section-type="wide-banner-type-2" class="wide-banner-type-2" style="background-image:url('{{img_url}}');background-repeat:no-repeat;background-position:center;background-color:{{section.settings.border_color}};">  
+  <div class="grid-uniform">    
+  
+    <div class="grid__item ">
+    
+      <div class="wide-banner-type-2-block wow fadeInUp animated" >      
+          <div class="wide-banner-type-2-content">  
+            <div class="wide-banner-type-2-rounded wow ">
+             {% if section.settings.titleshadow_1 != blank %}             
+                <h5 style="color:{{ section.settings.shadowtext_color }}"  class="small-title">{{ section.settings.titleshadow_1 }}</h5>             
+              {% endif %}
+              {% if section.settings.title_1 != blank %}
+              <h2 style="color:{{ section.settings.title_color }}">{{ section.settings.title_1 }}</h2>
+             
+              {% endif %}
+               
+              {% if section.settings.text_1 != blank %}
+              <p style="color:{{ section.settings.text_color }}">{{ section.settings.text_1 }}</p>
+              <div class="dt-sc-hr-invisible-very-small"></div>
+              {% endif %}
+              {% if section.settings.button_1 != blank %}
+              <a class="btn" href="{{ section.settings.link_1 }}">{{ section.settings.button_1 }}</a>    
+              {% endif %}              
+            </div> 
+          </div>
+          <style>
+   			 {% if section.settings.show_overlay_clr != blank %}.wide-banner-type-2::before { background:{{section.settings.border_color}};}{% endif %}
+          </style>
+        </div>
+
+      </div>
+
+    </div>
+
+
+  </div>
+      <div class="dt-sc-hr-invisible-large"></div>
+
+  {% schema %}
+  {
+  "name": "Wide Banner",
+  "class": "index-section",
+  "settings": [
+  {
+  "type": "color",
+  "id": "border_color",
+  "label":"Bg color",
+  "default": "#000"
+  },
+  {
+  "type": "checkbox",
+  "id": "use_bg_image",
+  "label":"Use BG Image" 
+  },
+   {
+  "type": "checkbox",
+  "id": "show_overlay_clr",
+  "label":"Show Overlay Color"
+ 
+  },
+  {
+  "type": "image_picker",
+  "id": "image_1",
+  "label": "Image",
+  "info": "Size: 1920x808"
+  },
+  {
+  "type": "text",
+  "id": "title_1",
+  "label": "Heading",
+   "default": "Heading"
+  },
+  {
+  "type": "color",
+  "id": "title_color",
+  "label":"Title color",
+  "default": "#fff"
+  },
+  {
+  "type": "text",
+  "id": "titleshadow_1",
+  "label": "Sub Heading",
+   "default": "Sub Heading"
+  },
+  {
+  "type": "color",
+  "id": "shadowtext_color",
+  "label":"Text color",
+  "default": "#fff"
+  },
+  {
+  "type": "textarea",
+  "id": "text_1",
+  "label": "Description",
+  "default": "Lorem ipsum dolor sit amet, consectetur adipis cing elit. Nullam id arcu tortor. Sed eget sit ame egestas, cursus felis quis, vestibulum."
+  },
+  {
+  "type": "color",
+  "id": "text_color",
+  "label":"Text color",
+  "default": "#fff"
+  },
+  
+  {
+  "type": "text",
+  "id": "button_1",
+  "label": "Button text",
+  "default": "Shop Now"
+  },
+
+  {
+  "type": "url",
+  "id": "link_1",
+  "label": "Link URL"
+  }
+
+ 
+  ],
+  "presets": [
+  {
+  "name": "Wide Banner",
+  "category": "Image",
+  "blocks": []
+  }
+  ]
+  }
+  {% endschema %}
+
+

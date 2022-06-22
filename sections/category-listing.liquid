@@ -1,0 +1,185 @@
+
+<div data-section-id="{{ section.id }}"  data-section-type="category-listing-type-1" class="category-listing-type-1">
+      <div class="grid-uniform">
+        <div class="container">
+       <ul class="category-listing_block">         
+        {% if section.blocks.size > 0 %}      
+        {% for block in section.blocks %}
+        {% case section.blocks.size %}
+        {% when 1 %}
+         {%- assign block_width = 'one-whole text-center' -%}
+        {% when 2 %}
+         {%- assign block_width = 'wide--one-half post-large--one-half large--one-half medium--one-half small--one-half' -%}
+        {% when 3 %}
+         {%- assign block_width = 'wide--one-third post-large--one-third large--one-third medium--one-third small--one-half' -%}
+         {% when 4 %}
+         {%- assign block_width = 'wide--one-quarter post-large--one-quarter large--one-quarter medium--one-quarter small--one-half' -%}
+         {% when 5 %}
+         {%- assign block_width = 'wide--one-fifth post-large--one-fifth large--one-fifth medium--one-third small--one-half' -%}
+         {% when 6 %}
+         {%- assign block_width = 'wide--one-sixth post-large--one-sixth large--one-third medium--one-third small--one-half' -%}
+         {% when 7 %}
+          {%- assign block_width = 'wide--one-seventh post-large--one-seventh large--one-seventh medium--one-quarter small--one-half' -%}
+         {% when 8 %}
+         {%- assign block_width = 'wide--one-eighth post-large--one-eighth large--one-eighth medium--one-quarter small--one-half' -%}
+         {% when 9 %}
+         {%- assign block_width = 'wide--one-ninth post-large--one-ninth large--one-ninth medium--one-third small--one-half' -%}
+         {% when 10 %}
+         {%- assign block_width = 'wide--one-tenth post-large--one-tenth large--one-tenth medium--one-fifth small--one-half' -%}
+         {% else %}
+         {%- assign block_width = 'wide--one-tenth post-large--one-tenth large--one-tenth medium--one-fifth small--one-half' -%}
+        {% endcase %}
+        <li class="grid__item {{ block_width }} wow fadeInUp animated"  data-wow-delay="{{ settings.time_lazy_load }}ms">
+          <div class="category-listing_section">                      
+             <div class="category-listing_inner" style="background:{{ block.settings.bg_bolor }};">    
+                   {% if block.settings.image != blank  %}  
+                  <div class="category_image">                      
+                 {% if block.settings.url != blank  %} 
+                    <a href="{{block.settings.url}}">
+                 {% endif %}     
+                    <img src="{{ block.settings.image | img_url: "250x" }}" alt="{{ block.settings.title }}" />
+                      {% if block.settings.url != blank  %} 
+                    </a>
+                 {% endif %}     
+                 </div>
+               
+               {% else %}
+               <div class="category_image">   
+               <img src="//via.placeholder.com/60x100">
+               </div>
+                  {% endif %}  
+               
+                     <div class="category_text"> 
+                   {% if block.settings.title != blank  %}  
+                  <h4 style="">{{ block.settings.title }}</h4>
+                  {% endif %}                  
+                   </div>                                
+            </div>
+        </div>       
+      </li>  
+         {% endfor %}
+        {% endif %}
+    </ul>
+        </div>
+        <div class="dt-sc-hr-invisible-large"></div>
+      </div>
+</div>
+<style type="text/css">
+  .category-listing-type-1 .category-listing_inner {  }
+  .category-listing-type-1 .category-listing_inner:hover { background:{{ section.settings.bg_hover_bolor }}; }
+  .category-listing-type-1 .category-listing_inner .category_text h4 { color:{{ section.settings.title_color }}; }
+  .category-listing-type-1 .category-listing_inner:hover .category_text h4 { color:{{ section.settings.bg_hover_color }}; }
+  .category-listing-type-1 .category-listing_inner:hover ul li .category-listing_section { border-color:{{ section.settings.bg_hover_bolor }};}
+  
+  .category-listing_inner ul li a:hover { color:{{ section.settings.linkedlist_hover_color }} !important; }
+  .category-listing-type-1 .category-listing_inner:hover {    box-shadow: 0 20px 10px 0 {{section.settings.box-shadow_color}};}
+</style>
+{% schema %}
+{
+  "name": "Category Icons",
+  "class": "index-section",
+  "max_blocks":12,
+  "settings": [
+      
+        {
+        "type": "color",
+        "id": "title_color",
+        "label": "Heading",
+        "default": "#000"
+        },
+ {
+        "type": "color",
+        "id": "box-shadow_color",
+        "label": "Hover Boxshadow Color",
+        "default": "#000"
+        },
+ 	
+{
+        "type": "color",
+        "id": "bg_hover_bolor",
+        "label": "Item Hover Background",
+        "default": "#b0d235"
+        },
+{
+        "type": "color",
+        "id": "bg_hover_color",
+        "label": "Item Hover Color",
+        "default": "#fff"
+        }
+
+        
+       
+],
+  "blocks": [
+    {
+      "type": "image",
+      "name": "Category",
+      "settings": [ 
+        {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image", 
+        "info": "Size:150x150"
+
+        },
+ {
+        "type": "color",
+        "id": "bg_bolor",
+        "label": "Item Background",
+        "default": "#fff"
+        },
+ 		{
+        "type": "text",
+        "id": "title",
+        "label": "Heading",
+        "default": "Collection Name"
+        },			
+        {
+        "type": "url",
+        "id": "url",
+        "label": "Link"
+        }		
+      ]
+    }
+  ],
+  "presets": [
+    {
+     "name": "Category Icons",
+      "category": "image",
+      "blocks": [
+        {
+          "type": "image"
+        },
+        {
+          "type": "image"
+        },
+        {
+          "type": "image"
+        },
+{
+          "type": "image"
+        },
+        {
+          "type": "image"
+        },
+        {
+          "type": "image"
+        },
+{
+          "type": "image"
+        },
+        {
+          "type": "image"
+        },
+        {
+          "type": "image"
+        },
+		{
+          "type": "image"
+        }
+ 		
+      ]
+    }
+  ]
+}
+{% endschema %}

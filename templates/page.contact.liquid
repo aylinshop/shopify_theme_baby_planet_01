@@ -1,0 +1,109 @@
+
+{% if settings.enable_contact_section %}        
+<div class="contact-address">
+  <div class="container">
+    <div class="dt-sc-hr-invisible-large"></div>
+    <div class="grid__item">
+      <div class="grid__item {% if settings.enable_contact_address %} wide--two-thirds post-large--two-thirds large--two-thirds {% endif %}">
+        {% if settings.enable_gmap %}
+        <div id="map">{{ settings.contact_iframe_code }} </div>
+        {% endif %}
+      </div>
+      <div class="grid__item {% if settings.enable_gmap %} wide--one-third post-large--one-third large--one-third {% endif %}">
+                  {% if settings.enable_contact_address %}
+
+        <h2>{{ settings.contact_title }}</h2>
+        <div class="grid__item">
+          <ul>
+                   {% if settings.contact_phone %}
+
+            <li class="grid__item ">
+              <div class="icon-wrapper">
+                <div class="icon">
+                  <i class="{{settings.contact_icon_1}}"></i> 
+                </div>
+                <p>  {{ settings.contact_phone1 }} <br>{{ settings.contact_phone2 }}</p><mark></mark> 
+              </div>
+            </li>
+            <div class="line-sep"></div>
+            {% endif %}
+            {% if settings.contact_module_email %}
+            <li class="grid__item ">
+              <div class="icon-wrapper">
+                <div class="icon">
+                  <i class="{{settings.contact_icon_2}}"></i>
+                </div>
+                <p> 
+                  <a title="" href="">{{ settings.contact_module_email_1 }}</a><br><a title="" href="">{{ settings.contact_module_email2 }}</a>
+                </p> 
+              </div>
+            </li>
+            <div class="line-sep"></div>
+            {% endif %}
+            {% if settings.contact_module_address %} 
+            <li class="address grid__item "> 
+              <div class="icon-wrapper">
+                <div class="icon">
+                  <i class="{{settings.contact_icon_3}}"></i>
+                </div> 
+                <p> {{ settings.contact_module_address1 }}<br /> {{ settings.contact_module_address2 }}<br />{{ settings.postcode }}</p><mark></mark> 
+              </div>
+            </li>
+            <div class="line-sep"></div>
+            {% endif %}
+            {% if settings.enable_contact_hours %} 
+            <li class="hours grid__item "> 
+              <div class="icon-wrapper">
+                <div class="icon">
+                  <i class="{{settings.contact_icon_4}}"></i>
+                </div> 
+                <p> {{ settings.contact_module_hours1 }}<br /> {{ settings.contact_module_hours2 }}</p>
+              </div>
+            </li>
+            {% endif %}
+          </ul>
+          
+        </div>
+        {% endif %}
+      </div>
+    </div>
+
+
+    <div class="dt-sc-hr-invisible-large"></div>
+    <div class="grid__item">
+      <div class="contact-form-section">
+        {% form 'contact' %}
+        {% if form.posted_successfully? %}
+        <p class="note form-success">
+          {{ 'contact.form.post_success' | t }}
+        </p>
+        {% endif %}
+        {{ form.errors | default_errors }}
+        {% assign name_attr = 'contact.form.name' | t | handle %}
+        <label for="ContactFormName" class="label--hidden">{{ 'contact.form.name' | t }}</label>
+        <span>
+          <input type="text" id="ContactFormName" name="contact[{{ name_attr }}]" placeholder="{{ 'contact.form.name' | t }}" autocapitalize="words" value="{% if form[name_attr] %}{{ form[name_attr] }}{% elsif customer %}{{ customer.name }}{% endif %}">
+        </span>
+        <label for="ContactFormEmail" class="label--hidden">{{ 'contact.form.email' | t }}</label>
+        <span>
+          <input type="email" id="ContactFormEmail" name="contact[email]" placeholder="{{ 'contact.form.email' | t }}" autocorrect="off" autocapitalize="off" value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}">
+          {% assign name_attr = 'contact.form.sub' | t | handle %}
+        </span>
+        <label for="ContactFormSub" class="label--hidden">{{ 'contact.form.phone' | t }}</label>
+        <span>
+          <input type="text" id="ContactFormSub" name="contact[{{ name_attr }}]" placeholder="{{ 'contact.form.sub' | t }}" autocapitalize="words" value="{% if form[name_attr] %}{{ form[name_attr] }}{% elsif customer %}{{ customer.subject }}{% endif %}">
+        </span>
+
+        <label for="ContactFormMessage" class="label--hidden">{{ 'contact.form.message' | t }}</label>
+        <span class="contact_message_box">
+          <textarea rows="7" id="ContactFormMessage" name="contact[body]" placeholder="{{ 'contact.form.message' | t }}">{% if form.body %}{{ form.body }}{% endif %}</textarea>
+        </span>
+        <button type="submit" class="btn">{{ 'contact.form.send' | t }}</button>
+
+        {% endform %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+

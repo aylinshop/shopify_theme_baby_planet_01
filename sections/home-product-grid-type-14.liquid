@@ -1,0 +1,188 @@
+<div data-section-id="{{ section.id }}"  data-section-type="home-product-grid-type-14" class="home-product-grid-type-14">
+  {%- assign collection = collections[section.settings.collection] -%}
+  {%- assign limit = section.settings.grid | times: section.settings.rows -%}  
+  <div class="full_width_tab" style="float:left;width:100%;{% if section.settings.image_bg != blank %} background-image:url('{{ section.settings.image_bg | img_url: 'master' }}');background-repeat:no-repeat;background-position:left top; {% endif %} background-color:{{ section.settings.bg_color }};">      
+    <div class="container">
+    {% if section.settings.main_title != blank or section.settings.description_1 != blank    %}
+        <div class="section-header section-header--small">
+          <div class="border-title wow fadeInDown animated">            
+            <h2 style="color:{{ section.settings.main_title_clr }};">{{ section.settings.main_title }}</h2>      
+            {% if section.settings.description_1 != blank %} <h5 class="small-title" style="color:{{ section.settings.desc_color }}">{{ section.settings.description_1 }}</h5>{% endif %}        
+          </div>
+
+        </div>              
+        {% endif %}     
+    {% case section.settings.grid %}
+    {% when '2' %}
+    {%- assign grid_item_width = 'wide--one-half post-large--one-half large--one-half medium--one-half small-grid__item' -%}
+    {% when '3' %}
+    {%- assign grid_item_width = 'wide--one-third post-large--one-half large--one-half medium--one-half small-grid__item' -%}
+    {% when '4' %}
+    {%- assign grid_item_width = 'wide--one-quarter post-large--one-half large--one-half medium--one-half small-grid__item' -%}
+    {% when '5' %}
+    {%- assign grid_item_width = 'wide--one-fifth post-large--one-fifth large--one-half medium--one-half small-grid__item' -%}            
+    {% endcase %}
+
+    <div class="grid-uniform">
+
+
+      <div class="grid__item large--one-whole medium--grid__item">              
+        <ul class="type4__items">
+          {% for product in collection.products limit:limit  %}
+          {% include 'vertical-grid-item-style-2', grid_item_width:grid_item_width %}          
+          {% endfor %}
+        </ul>      
+      </div>
+      
+    </div>
+  </div>
+  <div class="dt-sc-hr-invisible-small"></div> 
+</div>  
+  </div>
+
+
+
+
+<style>
+    {% if section.settings.heading_image_need %}  .home-product-grid-type-14 .border-title:before {  content:"";background-image:url({{ section.settings.heading_image | img_url: 'medium' }});display:inline-block;background-repeat:no-repeat;background-position:center;width:69px;height:62px;} {% endif %}
+</style>
+
+
+
+ 
+  
+{% schema %}
+{
+  "name": "Vertical Product Grid",
+  "class": "index-section",  
+  "settings": [ 
+
+
+
+{
+"type": "color",
+"id": "bg_color",
+"label": "Bg color",
+"default": "#fff"
+},
+
+{
+"type": "image_picker",
+"id": "image_bg",
+"label": "Image",      
+"info": "Size: 1920x1770"
+},
+
+
+	{
+"type": "text",
+"id": "main_title",
+"label": "Heading",
+"default": "New arrivals"
+}, 
+{
+"type": "color",
+"id": "main_title_clr",
+"label": "Heading color",
+"default": "#000"
+}, 
+{
+"type": "textarea",
+"id": "description_1",
+"label": "Small Heading"
+},
+{
+"type": "color",
+"id": "desc_color",
+"label": "Description color",
+"default": "#000"
+}, 
+
+{
+      "type": "checkbox",
+      "id": "heading_image_need",
+      "label": "Show Heading Image ?"
+      
+    },	
+{
+      "type": "image_picker",
+      "id": "heading_image",
+      "label": "Image",
+	  "info": "Size: 69x62"
+      
+    },	
+    {
+      "id": "collection",
+      "type": "collection",
+      "label": "Collection"
+    },
+  {
+      "type": "checkbox",
+      "id": "show_vendor",
+      "label": "show_vendor",
+	  "default": true
+	},		
+   
+
+    {
+      "type": "select",
+      "id": "grid",
+      "label": "Products per row",
+      "default": "3",
+      "options": [
+        {
+          "value": "2",
+          "label": "2"
+        },
+        {
+          "value": "3",
+          "label": "3"
+        },
+        {
+          "value": "4",
+          "label": "4"
+        }
+        
+      ]
+    },
+{
+        "type": "select",
+        "id": "rows",
+        "label": "Rows per page (grid only)",
+        "default": "2",
+        "options": [
+			{
+            "value": "1",
+            "label": "1"
+          },
+          {
+            "value": "2",
+            "label": "2"
+          },
+          {
+            "value": "3",
+            "label": "3"
+          },
+          {
+            "value": "4",
+            "label": "4"
+          }
+                  
+        ]
+      }
+   
+  
+  ],
+
+  "presets": [
+    {
+     "name": "Vertical Product Grid",
+      "category": "Collection"
+    }
+  ]
+}
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+

@@ -1,0 +1,81 @@
+{% if settings.show_slideshow %}
+<div id="home-slider-wrapper">
+  <ul class="loop owl-carousel owl-theme">
+
+    {% if settings.slide_1 %}
+    <li class="first {{ settings.type_alignment_1 }}">
+      <a href="{% if settings.slide_1_link.size > 0 %}{{ settings.slide_1_link }}{% endif %}">
+        <img src="{{ 'slideshow_1.jpg' | asset_url }}" alt="{{ settings.slider1_title | strip_newlines }}" title="{{ settings.slider1_title | strip_newlines }}"  />                         
+       <div class="slider-des">
+        {% if settings.slider1_title.size > 0 %}<h2 style="color:{{ settings.slide_1_heading }}">{{ settings.slider1_title | strip_newlines }}</h2>{% endif %}
+        {% if settings.slider1_subtitle.size > 0 %}<h3 style="color:{{ settings.slide_1_subheading }}">{{ settings.slider1_subtitle | strip_newlines }}</h3>{% endif %}
+        {% if settings.slider1_content.size > 0 %}<p style="color:{{ settings.slide_1_desc }}"> {{ settings.slider1_content }} </p>{% endif %}
+        {% if settings.slide_1_btn_txt.size > 0 %}<a class="btn" href="{{ settings.slide_1_link }}"> {{ settings.slide_1_btn_txt }} </a>{% endif %}
+        </div>
+         </a>                     
+    </li>
+    {% endif %}
+
+
+    {% if settings.slide_2 %}
+    <li class="second {{ settings.type_alignment_2 }}">
+      <a href="{% if settings.slide_2_link.size > 0 %}{{ settings.slide_2_link }}{% endif %}">
+        <img src="{{ 'slideshow_2.jpg' | asset_url }}" alt="{{ settings.slider2_title | strip_newlines }}" title="{{ settings.slider2_title | strip_newlines }}"  />                         
+       <div class="slider-des">
+        {% if settings.slider2_title.size > 0 %}<h2 style="color:{{ settings.slide_2_heading }}">{{ settings.slider2_title | strip_newlines }}</h2>{% endif %}
+        {% if settings.slider2_subtitle.size > 0 %}<h3 style="color:{{ settings.slide_2_subheading }}">{{ settings.slider2_subtitle | strip_newlines }}</h3>{% endif %}
+        {% if settings.slider2_content.size > 0 %}<p style="color:{{ settings.slide_2_desc }}">{{ settings.slider2_content }}</p>{% endif %}
+        {% if settings.slide_2_btn_txt.size > 0 %}<a class="btn" href="{{ settings.slide_2_link }}"> {{ settings.slide_2_btn_txt }} </a>{% endif %}
+        </div>
+         </a>                     
+    </li>
+    {% endif %}
+
+
+    {% if settings.slide_3 %}
+    <li class="third {{ settings.type_alignment_3 }}">
+      <a href="{% if settings.slide_3_link.size > 0 %}{{ settings.slide_3_link }}{% endif %}">
+        <img src="{{ 'slideshow_3.jpg' | asset_url }}" alt="{{ settings.slider3_title | strip_newlines }}" title="{{ settings.slider3_title | strip_newlines }}"  />                         
+       <div class="slider-des">
+        {% if settings.slider3_title.size > 0 %}<h2 style="color:{{ settings.slide_3_heading }}">{{ settings.slider3_title | strip_newlines }}</h2>{% endif %}
+        {% if settings.slider3_subtitle.size > 0 %}<h3 style="color:{{ settings.slide_3_subheading }}">{{ settings.slider3_subtitle | strip_newlines }}</h3>{% endif %}
+        {% if settings.slider3_content.size > 0 %}<p style="color:{{ settings.slide_3_desc }}">{{ settings.slider3_content }}</p>{% endif %}
+        {% if settings.slide_3_btn_txt.size > 0 %}<a class="btn" href="{{ settings.slide_3_link }}"> {{ settings.slide_3_btn_txt }} </a>{% endif %}
+        </div>
+         </a>                     
+    </li>
+    {% endif %}                
+
+  </ul>	
+  <div class="divas-navigation"></div>
+</div>	
+{% endif %}
+       
+    
+ <script>
+   jQuery(document).ready(function($) {
+     $('.loop').owlCarousel({
+       center: true,
+       items:1,
+       loop:true,              
+       dots: false,
+       navContainer: ".divas-navigation",
+       navText: ['<a class="prev btn"><i class="icon-arrow-left" ></i></a>','<a class="next btn"><i class="icon-arrow-right" ></i></a>'],
+
+       responsive:{
+         0:{
+           items: 1
+         },
+         600:{
+           items:1
+         },
+         1000:{
+           items: 1
+         }
+       }
+
+    
+});
+   });
+            
+          </script>
