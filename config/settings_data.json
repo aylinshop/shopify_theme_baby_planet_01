@@ -2196,10 +2196,22 @@
               "collection": "frontpage",
               "products_per_column": "4"
             }
+          },
+          "e9f00d46-ed87-4d1f-a9c3-9d1a5fba45e9": {
+            "type": "text_block",
+            "settings": {
+              "align_text": "right",
+              "letter": "",
+              "title": "New arrivals",
+              "btn": "",
+              "collection": "bbet-premuim-products",
+              "products_per_column": "4"
+            }
           }
         },
         "block_order": [
-          "1500111514387-0"
+          "1500111514387-0",
+          "e9f00d46-ed87-4d1f-a9c3-9d1a5fba45e9"
         ],
         "settings": {
           "main_title": "New Arrivals",
