@@ -2631,7 +2631,7 @@
         "settings": {
           "display_search": true,
           "display_minicart": true,
-          "display_wishlist": false,
+          "display_wishlist": true,
           "logo_text": "#2d2213",
           "logo_hover_text": "#ffffff",
           "border_between_bars": "#e4e4e4",
