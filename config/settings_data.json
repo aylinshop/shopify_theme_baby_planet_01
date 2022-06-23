@@ -2354,40 +2354,30 @@
       "navigation": {
         "type": "navigation",
         "blocks": {
-          "1536663521392": {
-            "type": "style_5",
+          "da59e233-3122-4e93-82d8-7a65ff0a9249": {
+            "type": "style_1",
             "settings": {
-              "title": "Menu - Style 5",
-              "megamenu_items_5": "Shop",
-              "main_linklist_5": "sidebar-menu",
-              "link_banner_first_style_5": "",
-              "link_banner_second_style_5": ""
+              "title": "Menu - Style 1",
+              "megamenu_items_1": "Catalog",
+              "main_linklist_1": "",
+              "link_banner_first_style_1": ""
             }
           },
-          "1536663769557": {
-            "type": "style_4",
-            "settings": {
-              "title": "Menu - Style 4",
-              "megamenu_items_4": "Baby Clothes",
-              "main_linklist_4": "category"
-            }
-          },
-          "1536663600512": {
+          "bede3a83-5623-4100-9001-6cc80d494174": {
             "type": "style_2",
             "settings": {
               "title": "Menu - Style 2",
-              "megamenu_items_2": "Health and Safety",
+              "megamenu_items_2": "Catalog",
               "main_linklist_2": "",
-              "link_banner_second_style_2": "",
+              "link_banner_second_style_2": "shopify:\/\/collections",
               "link_banner_third_style_2": "",
               "link_banner_first_style_2": ""
             }
           }
         },
         "block_order": [
-          "1536663521392",
-          "1536663769557",
-          "1536663600512"
+          "da59e233-3122-4e93-82d8-7a65ff0a9249",
+          "bede3a83-5623-4100-9001-6cc80d494174"
         ],
         "settings": {
           "display_megamenu": true
@@ -2399,6 +2389,7 @@
           "1571378105168": {
             "type": "image",
             "settings": {
+              "slideshow_1_img": "shopify:\/\/shop_images\/Grey_Simple_Sale_for_Babies_Product_Instagram_Post_1230_x_595_px.png",
               "slider1_title": "New Brand Collection",
               "slide_1_heading": "#000000",
               "slider1_subtitle": "Baby Accessories",
