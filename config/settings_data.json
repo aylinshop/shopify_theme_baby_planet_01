@@ -2501,14 +2501,14 @@
             "type": "image",
             "settings": {
               "bg_bolor": "#fcfcd3",
-              "title": "Baby n",
+              "title": "Newborn Essential",
               "url": "shopify:\/\/collections\/toys"
             }
           },
           "1571288147689-1": {
             "type": "image",
             "settings": {
-              "bg_bolor": "#fff8fa",
+              "bg_bolor": "#d6fffc",
               "title": "Milk Bottles",
               "url": "shopify:\/\/collections\/feeding-bottle"
             }
@@ -2516,24 +2516,24 @@
           "1571288147689-2": {
             "type": "image",
             "settings": {
-              "bg_bolor": "#f5fbfb",
-              "title": "Baby Kit",
+              "bg_bolor": "#edbac2",
+              "title": "Baby Accessories",
               "url": "shopify:\/\/collections\/summer-clothes"
             }
           },
           "1571288147689-3": {
             "type": "image",
             "settings": {
-              "bg_bolor": "#f7fff0",
-              "title": "Baby Tub",
+              "bg_bolor": "#f4f0ff",
+              "title": "Bath Essential",
               "url": "shopify:\/\/collections\/summer-clothes"
             }
           },
           "1571288147689-4": {
             "type": "image",
             "settings": {
-              "bg_bolor": "#fff8fa",
-              "title": "Baby Toys",
+              "bg_bolor": "#d2cec7",
+              "title": "Baby Storage",
               "url": "shopify:\/\/collections\/silicon-toys"
             }
           }
