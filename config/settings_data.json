@@ -2364,6 +2364,14 @@
               "link_banner_second_style_5": ""
             }
           },
+          "1536663769557": {
+            "type": "style_4",
+            "settings": {
+              "title": "Menu - Style 4",
+              "megamenu_items_4": "Baby Clothes",
+              "main_linklist_4": "category"
+            }
+          },
           "1536663600512": {
             "type": "style_2",
             "settings": {
@@ -2374,20 +2382,12 @@
               "link_banner_third_style_2": "",
               "link_banner_first_style_2": ""
             }
-          },
-          "1536663769557": {
-            "type": "style_4",
-            "settings": {
-              "title": "Menu - Style 4",
-              "megamenu_items_4": "Baby Clothes",
-              "main_linklist_4": ""
-            }
           }
         },
         "block_order": [
           "1536663521392",
-          "1536663600512",
-          "1536663769557"
+          "1536663769557",
+          "1536663600512"
         ],
         "settings": {
           "display_megamenu": true
