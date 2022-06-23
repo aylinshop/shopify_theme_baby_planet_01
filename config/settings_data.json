@@ -1629,7 +1629,7 @@
         "type": "sidebar-category",
         "settings": {
           "enable_sidecategory": true,
-          "linkedlist": "category-menu",
+          "linkedlist": "",
           "linkedlist_title": "Category"
         }
       },
@@ -1648,7 +1648,6 @@
           "1477474976957": {
             "type": "content",
             "settings": {
-              "promo_img": "",
               "promo_link": "shopify:\/\/collections\/best-sellers",
               "promo_title": "Promo Text"
             }
@@ -1656,7 +1655,6 @@
           "1477475002420": {
             "type": "content",
             "settings": {
-              "promo_img": "",
               "promo_link": "",
               "promo_title": "Promo Text"
             }
@@ -1664,7 +1662,6 @@
           "1478078538877": {
             "type": "content",
             "settings": {
-              "promo_img": "",
               "promo_link": "",
               "promo_title": ""
             }
@@ -1684,71 +1681,61 @@
           "1477476823589": {
             "type": "image",
             "settings": {
-              "title": "Red",
-              "color": "shopify:\/\/shop_images\/red_3e663dea-65e0-4ab2-a3d2-0d8fa77432e8.png"
+              "title": "Red"
             }
           },
           "1477476837114": {
             "type": "image",
             "settings": {
-              "title": "Yellow",
-              "color": "shopify:\/\/shop_images\/yellow_d371f349-79f0-4d4a-ac2f-8a338599783b.png"
+              "title": "Yellow"
             }
           },
           "1477476859401": {
             "type": "image",
             "settings": {
-              "title": "Orange",
-              "color": "shopify:\/\/shop_images\/orange_7b4b8928-9738-42e6-bab7-c17fae02640a.png"
+              "title": "Orange"
             }
           },
           "1477476872443": {
             "type": "image",
             "settings": {
-              "title": "Black",
-              "color": "shopify:\/\/shop_images\/black_f3fa8439-7fea-42ea-bc7a-0da6b63dd736.png"
+              "title": "Black"
             }
           },
           "1477476891997": {
             "type": "image",
             "settings": {
-              "title": "Pink",
-              "color": "shopify:\/\/shop_images\/rose.png"
+              "title": "Pink"
             }
           },
           "1477476905451": {
             "type": "image",
             "settings": {
-              "title": "Brown",
-              "color": "shopify:\/\/shop_images\/marron.png"
+              "title": "Brown"
             }
           },
           "1482228069572": {
             "type": "image",
             "settings": {
-              "title": "Cyan",
-              "color": "shopify:\/\/shop_images\/cyan.png"
+              "title": "Cyan"
             }
           },
           "1482228109496": {
             "type": "image",
             "settings": {
-              "title": "Blue",
-              "color": "shopify:\/\/shop_images\/blue.png"
+              "title": "Blue"
             }
           },
           "1483084527056": {
             "type": "image",
             "settings": {
-              "title": "White",
-              "color": "shopify:\/\/shop_images\/white.png"
+              "title": "White"
             }
           },
           "1484636147483": {
             "type": "image",
             "settings": {
-              "title": "Green",
-              "color": "shopify:\/\/shop_images\/green.png"
+              "title": "Green"
             }
           }
         },
@@ -2359,7 +2346,7 @@
             "settings": {
               "title": "Menu - Style 1",
               "megamenu_items_1": "Catalog",
-              "main_linklist_1": "",
+              "main_linklist_1": "category",
               "link_banner_first_style_1": ""
             }
           },
