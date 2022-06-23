@@ -2510,7 +2510,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_11.png",
-              "bg_bolor": "#d6fffc",
+              "bg_bolor": "#e4e4e4",
               "title": "Milk Bottles",
               "url": "shopify:\/\/collections\/feeding-bottle"
             }
