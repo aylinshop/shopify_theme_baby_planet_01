@@ -2359,7 +2359,7 @@
             "settings": {
               "title": "Menu - Style 5",
               "megamenu_items_5": "Shop",
-              "main_linklist_5": "",
+              "main_linklist_5": "sidebar-menu",
               "link_banner_first_style_5": "",
               "link_banner_second_style_5": ""
             }
