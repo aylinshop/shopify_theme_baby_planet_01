@@ -2386,20 +2386,20 @@
       "1539606119889": {
         "type": "grid-banner-type-20",
         "blocks": {
-          "1571378105168": {
+          "1571378103084": {
             "type": "image",
             "settings": {
-              "slideshow_1_img": "shopify:\/\/shop_images\/Grey_Simple_Sale_for_Babies_Product_Instagram_Post_1230_x_595_px.png",
+              "slideshow_1_img": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_1230_x_595_px.png",
               "slider1_title": "",
               "slide_1_heading": "#000000",
               "slider1_subtitle": "",
-              "slide_1_subheading": "#00d4c5",
+              "slide_1_subheading": "#ef7b84",
               "slider1_content": "",
               "slide_1_desc": "#000000",
               "slide_1_link": "\/collections\/all",
-              "slide_1_btn_txt": "View More",
+              "slide_1_btn_txt": "",
               "slide_1_btn": "#000000",
-              "slide_1_btn_hover_txt": "#00d4c5",
+              "slide_1_btn_hover_txt": "#ef7b84",
               "overlay_5_use": true,
               "overlay_5": "#ffffff"
             }
@@ -2422,37 +2422,38 @@
               "overlay_5": "#ffffff"
             }
           },
-          "1571378103084": {
+          "1571378105168": {
             "type": "image",
             "settings": {
-              "slideshow_1_img": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_1230_x_595_px.png",
+              "slideshow_1_img": "shopify:\/\/shop_images\/Grey_Simple_Sale_for_Babies_Product_Instagram_Post_1230_x_595_px.png",
               "slider1_title": "",
               "slide_1_heading": "#000000",
               "slider1_subtitle": "",
-              "slide_1_subheading": "#ef7b84",
+              "slide_1_subheading": "#00d4c5",
               "slider1_content": "",
               "slide_1_desc": "#000000",
               "slide_1_link": "\/collections\/all",
-              "slide_1_btn_txt": "",
+              "slide_1_btn_txt": "View More",
               "slide_1_btn": "#000000",
-              "slide_1_btn_hover_txt": "#ef7b84",
+              "slide_1_btn_hover_txt": "#00d4c5",
               "overlay_5_use": true,
               "overlay_5": "#ffffff"
             }
           }
         },
         "block_order": [
-          "1571378105168",
+          "1571378103084",
           "1571378100688",
-          "1571378103084"
+          "1571378105168"
         ],
         "settings": {
+          "image_1": "shopify:\/\/shop_images\/FB_carousel_690_x_205_px_1200_x_600_px_700_x_600_px_6.png",
           "disable_right_promo": false,
-          "title_1": "Baby Strollers",
+          "title_1": "",
           "title_1_clr": "#685f52",
-          "text_1": "Chick me’",
+          "text_1": "",
           "text_1_clr": "#e8a219",
-          "button_1": "Browse Products",
+          "button_1": "",
           "button_1_bg": "#685f52",
           "button_1_txt": "#685f52",
           "hover_button_1_bg": "#ef7b84",
