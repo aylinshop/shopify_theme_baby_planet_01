@@ -2536,7 +2536,8 @@
           "1571288147689-4": {
             "type": "image",
             "settings": {
-              "bg_bolor": "#d2cec7",
+              "image": "shopify:\/\/shop_images\/A_60c17f97-d808-489c-a2d2-131796048917.jpg",
+              "bg_bolor": "#e8c6f7",
               "title": "Baby Storage",
               "url": "shopify:\/\/collections\/silicon-toys"
             }
