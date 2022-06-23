@@ -2633,7 +2633,6 @@
         "settings": {
           "display_top_adv_bar": true,
           "notification_bar_bg": "#a9e1fa",
-          "after_image": "shopify:\/\/shop_images\/LAZADA_STORE_HEADER.png",
           "notification_text": "WE OFFER FAST SHIPPING",
           "notification_text_clr": "#000000",
           "notification_linktxt": "BUY NOW",
