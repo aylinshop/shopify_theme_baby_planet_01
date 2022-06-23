@@ -2500,6 +2500,7 @@
           "1571288147689-0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/10007.png",
               "bg_bolor": "#fcfcd3",
               "title": "Newborn Essential",
               "url": "shopify:\/\/collections\/toys"
