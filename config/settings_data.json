@@ -2627,7 +2627,7 @@
         "type": "top-bar-type-2",
         "settings": {
           "display_top_adv_bar": true,
-          "notification_bar_bg": "#edbabd",
+          "notification_bar_bg": "#ef7b84",
           "notification_text": "FAST AND FREE SHIPPING NATIONWIDE",
           "notification_text_clr": "#000000",
           "notification_linktxt": "BUY NOW",
