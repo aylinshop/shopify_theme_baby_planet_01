@@ -2214,7 +2214,7 @@
           "e9f00d46-ed87-4d1f-a9c3-9d1a5fba45e9"
         ],
         "settings": {
-          "main_title": "New Arrivals",
+          "main_title": "",
           "main_title_clr": "#ff8fa3",
           "description_1": "",
           "desc_color": "#685f52",
@@ -2459,7 +2459,7 @@
           "hover_button_1_txt": "#ef7b84",
           "overlay_1_use": false,
           "overlay_1": "#ffffff",
-          "link_1": "",
+          "link_1": "shopify:\/\/collections",
           "image_2": "shopify:\/\/shop_images\/IG_post_2022-21_700_x_600_px_2.png",
           "title_2": "Baby Storage",
           "title_2_clr": "#685f52",
