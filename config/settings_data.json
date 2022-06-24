@@ -2368,7 +2368,7 @@
           "1571378100688": {
             "type": "image",
             "settings": {
-              "slideshow_1_img": "shopify:\/\/shop_images\/Grey_Simple_Sale_for_Babies_Product_Instagram_Post_1920_x_1920_px_2.png",
+              "slideshow_1_img": "shopify:\/\/shop_images\/Grey_Simple_Sale_for_Babies_Product_Instagram_Post_1920_x_1920_px_2000_x_2000_px.png",
               "slider1_title": "",
               "slide_1_heading": "#000000",
               "slider1_subtitle": "",
@@ -2383,10 +2383,9 @@
               "overlay_5": "#ffffff"
             }
           },
-          "4430eb2e-bd88-428e-b09a-9b925e9066e2": {
+          "eacfee08-b800-4c88-84ac-60131659967a": {
             "type": "image",
             "settings": {
-              "slideshow_1_img": "shopify:\/\/shop_images\/Baby_Instagram_Template_1920_x_600_px_1920_x_755_px_1.png",
               "slider1_title": "",
               "slide_1_heading": "#000000",
               "slider1_subtitle": "",
@@ -2405,7 +2404,7 @@
         "block_order": [
           "1571378103084",
           "1571378100688",
-          "4430eb2e-bd88-428e-b09a-9b925e9066e2"
+          "eacfee08-b800-4c88-84ac-60131659967a"
         ],
         "settings": {
           "image_1": "shopify:\/\/shop_images\/FB_carousel_690_x_205_px_1200_x_600_px_700_x_600_px_6.png",
@@ -2489,15 +2488,6 @@
               "url": "shopify:\/\/collections\/feeding-bottle"
             }
           },
-          "1571288147689-2": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_150_x_150_px_2.png",
-              "bg_bolor": "#d6fffc",
-              "title": "Baby Accessories",
-              "url": "shopify:\/\/collections\/summer-clothes"
-            }
-          },
           "1571288147689-3": {
             "type": "image",
             "settings": {
@@ -2515,14 +2505,23 @@
               "title": "Baby Storage",
               "url": "shopify:\/\/collections\/silicon-toys"
             }
+          },
+          "1571288147689-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_150_x_150_px_2.png",
+              "bg_bolor": "#d6fffc",
+              "title": "Baby Accessories",
+              "url": "shopify:\/\/collections\/summer-clothes"
+            }
           }
         },
         "block_order": [
           "1571288147689-0",
           "1571288147689-1",
-          "1571288147689-2",
           "1571288147689-3",
-          "1571288147689-4"
+          "1571288147689-4",
+          "1571288147689-2"
         ],
         "settings": {
           "title_color": "#000000",
