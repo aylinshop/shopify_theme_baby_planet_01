@@ -2183,44 +2183,6 @@
           "limit": "4"
         }
       },
-      "1500111514387": {
-        "type": "home-product-grid-type-17",
-        "blocks": {
-          "1500111514387-0": {
-            "type": "text_block",
-            "settings": {
-              "align_text": "none",
-              "letter": "45",
-              "title": "Heading",
-              "btn": "View More",
-              "collection": "frontpage",
-              "products_per_column": "4"
-            }
-          },
-          "e9f00d46-ed87-4d1f-a9c3-9d1a5fba45e9": {
-            "type": "text_block",
-            "settings": {
-              "align_text": "right",
-              "letter": "",
-              "title": "New arrivals",
-              "btn": "",
-              "collection": "bbet-premuim-products",
-              "products_per_column": "4"
-            }
-          }
-        },
-        "block_order": [
-          "1500111514387-0",
-          "e9f00d46-ed87-4d1f-a9c3-9d1a5fba45e9"
-        ],
-        "settings": {
-          "main_title": "",
-          "main_title_clr": "#ff8fa3",
-          "description_1": "",
-          "desc_color": "#685f52",
-          "heading_image_need": true
-        }
-      },
       "1500115537418": {
         "type": "support-section-2",
         "blocks": {
@@ -2776,7 +2738,6 @@
     "content_for_index": [
       "1539606119889",
       "1571288147689",
-      "1500111514387",
       "1571297090583",
       "1571394145318",
       "1540377917477",
