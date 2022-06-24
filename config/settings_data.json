@@ -2448,11 +2448,11 @@
         "settings": {
           "image_1": "shopify:\/\/shop_images\/FB_carousel_690_x_205_px_1200_x_600_px_700_x_600_px_6.png",
           "disable_right_promo": false,
-          "title_1": "NewBorn",
+          "title_1": "",
           "title_1_clr": "#685f52",
-          "text_1": "Milk Bottle Essential",
+          "text_1": "",
           "text_1_clr": "#66e1f6",
-          "button_1": "Browse Products",
+          "button_1": "",
           "button_1_bg": "#685f52",
           "button_1_txt": "#685f52",
           "hover_button_1_bg": "#ef7b84",
@@ -2461,11 +2461,11 @@
           "overlay_1": "#ffffff",
           "link_1": "shopify:\/\/collections",
           "image_2": "shopify:\/\/shop_images\/IG_post_2022-21_700_x_600_px_2.png",
-          "title_2": "Baby Storage",
+          "title_2": "",
           "title_2_clr": "#685f52",
-          "text_2": "Milk Storage",
+          "text_2": "",
           "text_2_clr": "#ef7b84",
-          "button_2": "Browse Products",
+          "button_2": "",
           "button_2_bg": "#685f52",
           "button_2_txt": "#685f52",
           "hover_button_2_bg": "#ef7b84",
@@ -2512,7 +2512,7 @@
           "1571288147689-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/10007.png",
+              "image": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_150_x_150_px.png",
               "bg_bolor": "#fcfcd3",
               "title": "Newborn Essential",
               "url": "shopify:\/\/collections\/toys"
