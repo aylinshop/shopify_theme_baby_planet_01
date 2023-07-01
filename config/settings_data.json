@@ -2214,6 +2214,7 @@
             "type": "text",
             "settings": {
               "icon_bg_color": "#f5fbfb",
+              "icon_image": "shopify:\/\/shop_images\/AdobeStock_487765923-removebg-preview.png",
               "title": "شحن سريع",
               "title_color": "#00d4c5",
               "desc": "وصول الطرد في أقل من 5 ايام",
@@ -2225,9 +2226,10 @@
             "type": "text",
             "settings": {
               "icon_bg_color": "#f7fff0",
+              "icon_image": "shopify:\/\/shop_images\/contact_logo_media_message_social_whatsapp_icon-1320192769334909263.png",
               "title": "للتواصل",
               "title_color": "#7cbe41",
-              "desc": "+ 38 014 634-35-68",
+              "desc": "+00000000",
               "desc_color": "#000000",
               "link": ""
             }
