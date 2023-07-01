@@ -2190,6 +2190,7 @@
             "type": "text",
             "settings": {
               "icon_bg_color": "#fcfcf3",
+              "icon_image": "shopify:\/\/shop_images\/AdobeStock_366323783-removebg-preview_1.png",
               "title": "جودة عالية",
               "title_color": "#c7c78c",
               "desc": "منتجاتنا أصلية ذو جودة عالية",
@@ -2201,6 +2202,7 @@
             "type": "text",
             "settings": {
               "icon_bg_color": "#fff8fa",
+              "icon_image": "shopify:\/\/shop_images\/AdobeStock_447064103-removebg-preview.png",
               "title": "خدمة عملاء على مدار 24 ساعة",
               "title_color": "#ef7b84",
               "desc": "whatsapp 000000",
