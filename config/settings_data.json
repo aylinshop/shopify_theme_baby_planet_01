@@ -2478,6 +2478,7 @@
           "1571288147689-3": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/31.jpg",
               "bg_bolor": "#f5dddf",
               "title": "أكسسوارات",
               "url": "shopify:\/\/collections\/summer-clothes"
@@ -2494,6 +2495,7 @@
           "1f7957c1-6e68-4fcb-af64-8077a4567664": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/55.jpg",
               "bg_bolor": "#dceff2",
               "title": "مستلزمات الحليب",
               "url": ""
