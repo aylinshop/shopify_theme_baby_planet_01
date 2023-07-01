@@ -2320,7 +2320,7 @@
             "settings": {
               "title": "Menu - Style 1",
               "megamenu_items_1": "Catalog",
-              "main_linklist_1": "category",
+              "main_linklist_1": "",
               "link_banner_first_style_1": ""
             }
           },
@@ -2350,7 +2350,7 @@
           "1571378103084": {
             "type": "image",
             "settings": {
-              "slideshow_1_img": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_600_x_290_px_880_x_755_px_1920_x_1920_px_2000_x_2000_px.png",
+              "slideshow_1_img": "shopify:\/\/shop_images\/supplies-for-expecting-baby.jpg",
               "slider1_title": "",
               "slide_1_heading": "#000000",
               "slider1_subtitle": "",
@@ -2368,7 +2368,6 @@
           "1571378100688": {
             "type": "image",
             "settings": {
-              "slideshow_1_img": "shopify:\/\/shop_images\/Grey_Simple_Sale_for_Babies_Product_Instagram_Post_1920_x_1920_px_2000_x_2000_px.png",
               "slider1_title": "",
               "slide_1_heading": "#000000",
               "slider1_subtitle": "",
@@ -2389,7 +2388,6 @@
           "1571378100688"
         ],
         "settings": {
-          "image_1": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_600_x_290_px_880_x_755_px.png",
           "disable_right_promo": false,
           "title_1": "",
           "title_1_clr": "#685f52",
@@ -2403,7 +2401,6 @@
           "overlay_1_use": false,
           "overlay_1": "#ffffff",
           "link_1": "shopify:\/\/collections",
-          "image_2": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_600_x_290_px_880_x_755_px_1.png",
           "title_2": "",
           "title_2_clr": "#685f52",
           "text_2": "",
@@ -2455,7 +2452,6 @@
           "1571288147689-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_150_x_150_px.png",
               "bg_bolor": "#fcfcd3",
               "title": "Newborn Essential",
               "url": "shopify:\/\/collections\/toys"
@@ -2464,7 +2460,6 @@
           "1571288147689-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_150_x_150_px_1.png",
               "bg_bolor": "#e4e4e4",
               "title": "Milk Bottles",
               "url": "shopify:\/\/collections\/feeding-bottle"
@@ -2473,7 +2468,6 @@
           "1571288147689-3": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_150_x_150_px_3.png",
               "bg_bolor": "#f5dddf",
               "title": "Bath Essential",
               "url": "shopify:\/\/collections\/summer-clothes"
@@ -2482,7 +2476,6 @@
           "1571288147689-4": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_150_x_150_px_4.png",
               "bg_bolor": "#e8c6f7",
               "title": "Baby Storage",
               "url": "shopify:\/\/collections\/silicon-toys"
@@ -2491,7 +2484,6 @@
           "1571288147689-2": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/vib.es_1280_x_1280_px_150_x_150_px_2.png",
               "bg_bolor": "#d6fffc",
               "title": "Baby Accessories",
               "url": "shopify:\/\/collections\/summer-clothes"
@@ -2504,6 +2496,9 @@
           "1571288147689-3",
           "1571288147689-4",
           "1571288147689-2"
+        ],
+        "custom_css": [
+
         ],
         "settings": {
           "title_color": "#000000",
