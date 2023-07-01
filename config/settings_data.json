@@ -2454,7 +2454,7 @@
             "type": "image",
             "settings": {
               "bg_bolor": "#fcfcd3",
-              "title": "Newborn Essential",
+              "title": "سنين (0-3)",
               "url": "shopify:\/\/collections\/toys"
             }
           },
@@ -2462,7 +2462,7 @@
             "type": "image",
             "settings": {
               "bg_bolor": "#e4e4e4",
-              "title": "Milk Bottles",
+              "title": "(4-7) سنين",
               "url": "shopify:\/\/collections\/feeding-bottle"
             }
           },
@@ -2470,7 +2470,7 @@
             "type": "image",
             "settings": {
               "bg_bolor": "#f5dddf",
-              "title": "Bath Essential",
+              "title": "أكسسوارات",
               "url": "shopify:\/\/collections\/summer-clothes"
             }
           },
@@ -2478,7 +2478,7 @@
             "type": "image",
             "settings": {
               "bg_bolor": "#e8c6f7",
-              "title": "Baby Storage",
+              "title": "العناية بالطفل",
               "url": "shopify:\/\/collections\/silicon-toys"
             }
           },
@@ -2486,8 +2486,24 @@
             "type": "image",
             "settings": {
               "bg_bolor": "#d6fffc",
-              "title": "Baby Accessories",
+              "title": "لوازم طبية",
               "url": "shopify:\/\/collections\/summer-clothes"
+            }
+          },
+          "0af3b79d-84d2-4cfa-aae5-955ce605dbca": {
+            "type": "image",
+            "settings": {
+              "bg_bolor": "#ecf1b1",
+              "title": "العناية بالطفل",
+              "url": ""
+            }
+          },
+          "1f7957c1-6e68-4fcb-af64-8077a4567664": {
+            "type": "image",
+            "settings": {
+              "bg_bolor": "#dceff2",
+              "title": "مستلزمات الحليب",
+              "url": ""
             }
           }
         },
@@ -2496,7 +2512,9 @@
           "1571288147689-1",
           "1571288147689-3",
           "1571288147689-4",
-          "1571288147689-2"
+          "1571288147689-2",
+          "0af3b79d-84d2-4cfa-aae5-955ce605dbca",
+          "1f7957c1-6e68-4fcb-af64-8077a4567664"
         ],
         "custom_css": [
 
