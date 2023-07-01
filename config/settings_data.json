@@ -2454,7 +2454,7 @@
             "type": "image",
             "settings": {
               "bg_bolor": "#fcfcd3",
-              "title": "سنين (0-3)",
+              "title": "سنين (3-0)",
               "url": "shopify:\/\/collections\/toys"
             }
           },
@@ -2486,13 +2486,12 @@
             "type": "image",
             "settings": {
               "bg_bolor": "#d6fffc",
-              "title": "لوازم طبية",
+              "title": "أحذية",
               "url": "shopify:\/\/collections\/summer-clothes"
             }
           },
           "1f7957c1-6e68-4fcb-af64-8077a4567664": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "bg_bolor": "#dceff2",
               "title": "مستلزمات الحليب",
