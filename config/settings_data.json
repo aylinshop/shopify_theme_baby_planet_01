@@ -2422,6 +2422,7 @@
       },
       "1540377917477": {
         "type": "wide-banner-type-5",
+        "disabled": true,
         "settings": {
           "border_color": "#ffffff",
           "use_bg_image": true,
@@ -2570,6 +2571,7 @@
       },
       "1571297718052": {
         "type": "home-product-grid-type-14",
+        "disabled": true,
         "settings": {
           "bg_color": "#ffffff",
           "main_title": "Babies Accessories",
@@ -2588,9 +2590,9 @@
         "settings": {
           "display_top_adv_bar": true,
           "notification_bar_bg": "#e7d5fa",
-          "notification_text": "FAST AND FREE SHIPPING NATIONWIDE",
+          "notification_text": "جميع ما يلزم لطفلك من منتجات اصلية متوفرة لدينا :",
           "notification_text_clr": "#000000",
-          "notification_linktxt": "BUY NOW",
+          "notification_linktxt": "تسوق الان",
           "notification_linktxt_color": "#000000",
           "notification_hover_linktxt_color": "#00d4c5",
           "header_notification_link": "\/collections\/all",
@@ -2716,6 +2718,7 @@
       },
       "1571394145318": {
         "type": "product-tab-model",
+        "disabled": true,
         "settings": {
           "bg_color": "#ffffff",
           "main_title": "Babies Toys",
