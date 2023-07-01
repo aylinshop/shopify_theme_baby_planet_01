@@ -2466,6 +2466,14 @@
               "url": "shopify:\/\/collections\/feeding-bottle"
             }
           },
+          "1571288147689-2": {
+            "type": "image",
+            "settings": {
+              "bg_bolor": "#d6fffc",
+              "title": "أحذية",
+              "url": "shopify:\/\/collections\/summer-clothes"
+            }
+          },
           "1571288147689-3": {
             "type": "image",
             "settings": {
@@ -2482,14 +2490,6 @@
               "url": "shopify:\/\/collections\/silicon-toys"
             }
           },
-          "1571288147689-2": {
-            "type": "image",
-            "settings": {
-              "bg_bolor": "#d6fffc",
-              "title": "أحذية",
-              "url": "shopify:\/\/collections\/summer-clothes"
-            }
-          },
           "1f7957c1-6e68-4fcb-af64-8077a4567664": {
             "type": "image",
             "settings": {
@@ -2502,9 +2502,9 @@
         "block_order": [
           "1571288147689-0",
           "1571288147689-1",
+          "1571288147689-2",
           "1571288147689-3",
           "1571288147689-4",
-          "1571288147689-2",
           "1f7957c1-6e68-4fcb-af64-8077a4567664"
         ],
         "custom_css": [
