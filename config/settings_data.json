@@ -2212,9 +2212,9 @@
             "type": "text",
             "settings": {
               "icon_bg_color": "#f5fbfb",
-              "title": "Free Shipping",
+              "title": "شحن سريع",
               "title_color": "#00d4c5",
-              "desc": "On Order Over $23 - 7 Days A Week",
+              "desc": "وصول الطرد في أقل من 5 ايام",
               "desc_color": "#000000",
               "link": ""
             }
