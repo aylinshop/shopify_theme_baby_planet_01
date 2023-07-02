@@ -2452,7 +2452,7 @@
         ],
         "settings": {
           "image_1": "shopify:\/\/shop_images\/WhatsApp_Image_2023-07-02_at_7.37.39_AM.jpg",
-          "disable_right_promo": false,
+          "disable_right_promo": true,
           "title_1": "",
           "title_1_clr": "#685f52",
           "text_1": "",
