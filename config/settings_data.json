@@ -2588,6 +2588,7 @@
       },
       "1571297090583": {
         "type": "grid-banner",
+        "disabled": true,
         "settings": {
           "title_1": "",
           "overlay1": false,
@@ -2778,7 +2779,6 @@
       },
       "1571394145318": {
         "type": "product-tab-model",
-        "disabled": true,
         "settings": {
           "bg_color": "#ffffff",
           "main_title": "Babies Toys",
