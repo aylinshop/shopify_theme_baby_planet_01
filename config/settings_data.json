@@ -2246,6 +2246,7 @@
       },
       "1500116251811": {
         "type": "blog-post-type-1",
+        "disabled": true,
         "settings": {
           "blog_bg": "#ffffff",
           "main_title": "دليلك للعناية بطفلك",
