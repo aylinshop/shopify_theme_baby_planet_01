@@ -1,6 +1,6 @@
 {
   "current": {
-    "logo_use_image": false,
+    "logo_use_image": true,
     "logo_max_height": "100",
     "logo_mob_height": "70",
     "favicon_enable": true,
