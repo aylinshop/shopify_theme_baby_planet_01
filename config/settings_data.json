@@ -2366,7 +2366,7 @@
               "slide_1_btn_txt": "ملابس حديثي الولادة",
               "slide_1_btn": "#000000",
               "slide_1_btn_hover_txt": "#ef7b84",
-              "overlay_5_use": true,
+              "overlay_5_use": false,
               "overlay_5": "#ffffff"
             }
           },
