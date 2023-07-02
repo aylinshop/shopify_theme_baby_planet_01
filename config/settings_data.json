@@ -2373,7 +2373,7 @@
           "1571378100688": {
             "type": "image",
             "settings": {
-              "slideshow_1_img": "shopify:\/\/shop_images\/baby-nursery-supplies.jpg",
+              "slideshow_1_img": "shopify:\/\/shop_images\/WhatsApp_Image_2023-07-02_at_7.31.27_AM.jpg",
               "slider1_title": "",
               "slide_1_heading": "#000000",
               "slider1_subtitle": "",
@@ -2387,11 +2387,68 @@
               "overlay_5_use": true,
               "overlay_5": "#ffffff"
             }
+          },
+          "540967a1-1089-4a01-bd14-343ec39523b7": {
+            "type": "image",
+            "settings": {
+              "slideshow_1_img": "shopify:\/\/shop_images\/WhatsApp_Image_2023-07-02_at_7.31.29_AM.jpg",
+              "slider1_title": "",
+              "slide_1_heading": "#000000",
+              "slider1_subtitle": "",
+              "slide_1_subheading": "#ffffff",
+              "slider1_content": "",
+              "slide_1_desc": "#ffffff",
+              "slide_1_link": "\/collections\/all",
+              "slide_1_btn_txt": "",
+              "slide_1_btn": "#000",
+              "slide_1_btn_hover_txt": "#000",
+              "overlay_5_use": false,
+              "overlay_5": "#fff"
+            }
+          },
+          "a2c2fad4-4e0f-442c-a9db-7b53e2249d81": {
+            "type": "image",
+            "settings": {
+              "slideshow_1_img": "shopify:\/\/shop_images\/WhatsApp_Image_2023-07-02_at_7.31.29_AM_1.jpg",
+              "slider1_title": "",
+              "slide_1_heading": "#000000",
+              "slider1_subtitle": "",
+              "slide_1_subheading": "#ffffff",
+              "slider1_content": "",
+              "slide_1_desc": "#ffffff",
+              "slide_1_link": "\/collections\/all",
+              "slide_1_btn_txt": "",
+              "slide_1_btn": "#000",
+              "slide_1_btn_hover_txt": "#000",
+              "overlay_5_use": false,
+              "overlay_5": "#fff"
+            }
+          },
+          "7a172f61-e685-4c43-ab84-37797e11b1bc": {
+            "type": "image",
+            "settings": {
+              "slideshow_1_img": "shopify:\/\/shop_images\/WhatsApp_Image_2023-07-02_at_7.25.03_AM.jpg",
+              "slider1_title": "",
+              "slide_1_heading": "#000000",
+              "slider1_subtitle": "",
+              "slide_1_subheading": "#ffffff",
+              "slider1_content": "",
+              "slide_1_desc": "#ffffff",
+              "slide_1_link": "\/collections\/all",
+              "slide_1_btn_txt": "",
+              "slide_1_btn": "#000",
+              "slide_1_btn_hover_txt": "#000",
+              "overlay_5_use": false,
+              "overlay_5": "#fff"
+            }
           }
         },
         "block_order": [
           "1571378103084",
-          "1571378100688"
+          "1571378100688",
+          "540967a1-1089-4a01-bd14-343ec39523b7",
+          "a2c2fad4-4e0f-442c-a9db-7b53e2249d81",
+          "7a172f61-e685-4c43-ab84-37797e11b1bc"
         ],
         "settings": {
           "disable_right_promo": false,
