@@ -2777,6 +2777,52 @@
           "products_per_view": "7",
           "products_per_column": "4"
         }
+      },
+      "2b710e69-139e-4e9d-aa6c-03dbd90ca58d": {
+        "type": "custom-content",
+        "blocks": {
+          "2b710e69-139e-4e9d-aa6c-03dbd90ca58d-1688394185e7f5a51a-0": {
+            "type": "text",
+            "settings": {
+              "heading_text": "Talk about your brand",
+              "heading_color": "#3a3a3a",
+              "heading_style": "h3",
+              "paragraph_text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+              "paragraph_color": "#4a4a4a",
+              "paragraph_size": "1",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "2b710e69-139e-4e9d-aa6c-03dbd90ca58d-1688394185e7f5a51a-1": {
+            "type": "image",
+            "settings": {
+              "width": "50%",
+              "alignment": "center"
+            }
+          },
+          "94e2ac58-7f03-4b01-81e5-afcee7ef278a": {
+            "type": "html",
+            "settings": {
+              "code": "<span id=\"siteseal\"><script async type=\"text\/javascript\" src=\"https:\/\/seal.godaddy.com\/getSeal?sealID=jpwbDupvdjgvMFwdQse3MHz2pd9o4i0Eish7H0XRyjRyQ2JZbJvIzAewuvJm\"><\/script><\/span>",
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "2b710e69-139e-4e9d-aa6c-03dbd90ca58d-1688394185e7f5a51a-0",
+          "2b710e69-139e-4e9d-aa6c-03dbd90ca58d-1688394185e7f5a51a-1",
+          "94e2ac58-7f03-4b01-81e5-afcee7ef278a"
+        ],
+        "settings": {
+          "heading_text": "Custom content",
+          "heading_color": "#3a3a3a",
+          "background_color": "",
+          "top_margin": true,
+          "bottom_margin": true
+        }
       }
     },
     "content_for_index": [
@@ -2789,7 +2835,8 @@
       "1500116251811",
       "1500115537418",
       "1571379857845",
-      "1498206467945"
+      "1498206467945",
+      "2b710e69-139e-4e9d-aa6c-03dbd90ca58d"
     ]
   },
   "presets": {
