@@ -2050,6 +2050,7 @@
       },
       "1498206467945": {
         "type": "newsletter",
+        "disabled": true,
         "settings": {
           "bg_color": "#ffeea9",
           "title": "ابقى على اطلاع",
@@ -2772,8 +2773,8 @@
           "desc_color": "#685f52",
           "heading_image_need": true,
           "collection": "best-seller",
-          "products_per_view": "4",
-          "products_per_column": "2"
+          "products_per_view": "7",
+          "products_per_column": "4"
         }
       }
     },
