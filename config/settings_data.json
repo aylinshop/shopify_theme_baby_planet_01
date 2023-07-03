@@ -1926,7 +1926,7 @@
           "app_store_1_link": "",
           "app_store_2_link": "",
           "app_store_3_link": "",
-          "show_powered_by": false,
+          "show_powered_by": true,
           "copyright": "Copyright AYliN Shop",
           "copyright_bg": "#685f52",
           "copyright_text": "#fcfcfc",
@@ -2696,6 +2696,7 @@
       },
       "1571379857845": {
         "type": "client-logos",
+        "disabled": true,
         "blocks": {
           "1571379857845-0": {
             "type": "Image",
