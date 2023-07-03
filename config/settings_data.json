@@ -1900,6 +1900,9 @@
       },
       "footer-model-3": {
         "type": "footer-model-3",
+        "custom_css": [
+
+        ],
         "settings": {
           "footer_bg": "#fce7cc",
           "footer_text": "#685f52",
@@ -2778,10 +2781,10 @@
           "products_per_column": "4"
         }
       },
-      "2b710e69-139e-4e9d-aa6c-03dbd90ca58d": {
+      "aa18bf8d-81ee-4f93-a7d5-9d1049649594": {
         "type": "custom-content",
         "blocks": {
-          "2b710e69-139e-4e9d-aa6c-03dbd90ca58d-1688394185e7f5a51a-0": {
+          "aa18bf8d-81ee-4f93-a7d5-9d1049649594-1688394185e7f5a51a-0": {
             "type": "text",
             "settings": {
               "heading_text": "Talk about your brand",
@@ -2795,14 +2798,14 @@
               "align_text": "left"
             }
           },
-          "2b710e69-139e-4e9d-aa6c-03dbd90ca58d-1688394185e7f5a51a-1": {
+          "aa18bf8d-81ee-4f93-a7d5-9d1049649594-1688394185e7f5a51a-1": {
             "type": "image",
             "settings": {
               "width": "50%",
               "alignment": "center"
             }
           },
-          "94e2ac58-7f03-4b01-81e5-afcee7ef278a": {
+          "50c3e389-006b-4645-aed4-56f1cd1f7696": {
             "type": "html",
             "settings": {
               "code": "<span id=\"siteseal\"><script async type=\"text\/javascript\" src=\"https:\/\/seal.godaddy.com\/getSeal?sealID=jpwbDupvdjgvMFwdQse3MHz2pd9o4i0Eish7H0XRyjRyQ2JZbJvIzAewuvJm\"><\/script><\/span>",
@@ -2812,9 +2815,9 @@
           }
         },
         "block_order": [
-          "2b710e69-139e-4e9d-aa6c-03dbd90ca58d-1688394185e7f5a51a-0",
-          "2b710e69-139e-4e9d-aa6c-03dbd90ca58d-1688394185e7f5a51a-1",
-          "94e2ac58-7f03-4b01-81e5-afcee7ef278a"
+          "aa18bf8d-81ee-4f93-a7d5-9d1049649594-1688394185e7f5a51a-0",
+          "aa18bf8d-81ee-4f93-a7d5-9d1049649594-1688394185e7f5a51a-1",
+          "50c3e389-006b-4645-aed4-56f1cd1f7696"
         ],
         "settings": {
           "heading_text": "Custom content",
@@ -2836,7 +2839,7 @@
       "1500115537418",
       "1571379857845",
       "1498206467945",
-      "2b710e69-139e-4e9d-aa6c-03dbd90ca58d"
+      "aa18bf8d-81ee-4f93-a7d5-9d1049649594"
     ]
   },
   "presets": {
