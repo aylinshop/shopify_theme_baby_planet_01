@@ -2696,14 +2696,13 @@
       },
       "1571379857845": {
         "type": "client-logos",
-        "disabled": true,
         "blocks": {
           "1571379857845-0": {
             "type": "Image",
             "settings": {
               "client_img": "shopify:\/\/shop_images\/IMG_6075_7ca0497a-ee3b-41cb-8cdf-9667c88fa468.jpg",
               "client_heading": "",
-              "client_link": ""
+              "client_link": "shopify:\/\/collections\/العناية-بالطفل"
             }
           },
           "1571379857845-2": {
