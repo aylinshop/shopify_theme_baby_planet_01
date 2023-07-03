@@ -2352,24 +2352,6 @@
       "1539606119889": {
         "type": "grid-banner-type-20",
         "blocks": {
-          "1571378103084": {
-            "type": "image",
-            "settings": {
-              "slideshow_1_img": "shopify:\/\/shop_images\/WhatsApp_Image_2023-07-02_at_7.24.35_AM.jpg",
-              "slider1_title": "",
-              "slide_1_heading": "#000000",
-              "slider1_subtitle": "أزياء مريحة لحديثي الولادة",
-              "slide_1_subheading": "#ef7b84",
-              "slider1_content": "",
-              "slide_1_desc": "#000000",
-              "slide_1_link": "\/collections\/all",
-              "slide_1_btn_txt": "تسوق الان",
-              "slide_1_btn": "#000000",
-              "slide_1_btn_hover_txt": "#ef7b84",
-              "overlay_5_use": true,
-              "overlay_5": "#ffffff"
-            }
-          },
           "1571378100688": {
             "type": "image",
             "settings": {
@@ -2444,7 +2426,6 @@
           }
         },
         "block_order": [
-          "1571378103084",
           "1571378100688",
           "540967a1-1089-4a01-bd14-343ec39523b7",
           "a2c2fad4-4e0f-442c-a9db-7b53e2249d81",
