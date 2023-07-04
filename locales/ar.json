@@ -89,7 +89,7 @@
       "savings_html": "اجمالي التوفير {{ price }}",
       "shipping_at_checkout": "",
       "update": "تحديث السلة",
-      "checkout": "",
+      "checkout": "الدفع",
       "view_cart": "مشاهدة السلة",
       "empty": "السلة فارغة !",
       "continue_browsing_html": "",
