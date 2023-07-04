@@ -296,7 +296,7 @@
     "general": {
       "from_html": "",
       "share_title": "مشاركة في : ",
-      "related_products_title": ""
+      "related_products_title": "قد يعجبك ايضا"
     },
     "product": {
       "sold_out": "نفذ من المخزون",
@@ -318,11 +318,11 @@
       "product": "المنتج",
       "price": "السعر",
       "remove": "ازالة",
-      "add_cart": "اضافة الى السلة",
-      "view_wishlist": "مشاهدة قائمة الامنيات",
-      "browse_wishlist": "تصفح الامنيات",
-      "add_to_wishlist": "اضافة الى الامنيات",
-      "wishlist_name": "الامنيات",
+      "add_cart": "اضافة الى سلة المشتريات",
+      "view_wishlist": "مشاهدة قائمة الاعجابات",
+      "browse_wishlist": "تصفح الاعجابات",
+      "add_to_wishlist": "اضافة الى الاعجابات",
+      "wishlist_name": "اعجبني",
       "wishlist_title": "قائمة الاعجابات",
       "no_collections_html": "",
       "wishlist_empty": "قائمة الاعجابات فارغة",
