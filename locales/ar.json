@@ -470,7 +470,12 @@
         "page_title": "الدفع",
         "close_modal_label": "اغلاق",
         "close_notice_label": "اغلاق",
-        "expand_notice_label": "مشاهدة المزيد"
+        "expand_notice_label": "مشاهدة المزيد",
+        "title": "الدفع - {{ shooName }}",
+        "full_title": "{{pageTitle}} - {{shopName}} - الدفع",
+        "loading_title": "الدفع الى - {{shopName}}",
+        "display_name": "{{firstName}} {{lastName}}",
+        "submit_for_review_notice_label": "مراجعة الطلب"
       },
       "contact": {
         "city_label": "المدينة",
