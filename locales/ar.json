@@ -310,7 +310,7 @@
       "color": "اللون",
       "product_type": "نوع المنتج",
       "product_vendor": "ماركة : ",
-      "in_stock": "في المستودع : ",
+      "in_stock": "في المخزون",
       "many_in_stock": "متوفر في المخزون",
       "out_of_stock": "نفذ من المخزون"
     },
