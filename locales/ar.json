@@ -520,6 +520,17 @@
         "go_back_to_cart_button_label": "الرجوع الى عربة التسوق",
         "remove": "ازالة",
         "empty_cart_label": "عربة التسوق فارغة"
+      },
+      "delivery_options": {
+        "free_total_label": "مجانا",
+        "ship": "شحن",
+        "shipping_address": "عنوان الشحن",
+        "pick_up": "الاستلام",
+        "pick_up_locations": "مكان الاستلام",
+        "pick_up_in_one_hour": "يتم تجهيزه خلال ساعة",
+        "pick_up_in_two_hours": "يتم تجهيزه خلال ساعتين",
+        "pick_up_immediately": "جاهز للأستلام !",
+        "pick_up_next_day": "جاهز للاستلام غدا"
       }
     },
     "sentence": {
