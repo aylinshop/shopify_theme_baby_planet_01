@@ -141,13 +141,13 @@
   },
   "contact": {
     "form": {
-      "name": "",
-      "email": "",
-      "sub": "",
-      "message": "",
-      "send": "",
-      "post_success": "",
-      "social_icons_title": ""
+      "name": "الاسم",
+      "email": "البريد الالكتروني",
+      "sub": "الموضوع",
+      "message": "الرسالة",
+      "send": "أرسال",
+      "post_success": "شكرا لتواصلك معنا سوف نقوم بالرد في أسرع وقت",
+      "social_icons_title": "تابعنا"
     }
   },
   "customer": {
