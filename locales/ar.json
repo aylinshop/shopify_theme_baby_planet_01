@@ -280,16 +280,16 @@
       "create_account": ""
     },
     "footer": {
-      "facebook": "",
-      "twitter": "",
-      "pinterest": "",
-      "google": "",
-      "instagram": "",
-      "tumblr": "",
-      "youtube": "",
-      "vimeo": "",
-      "fancy": "",
-      "RSS": ""
+      "facebook": "فيسبوك",
+      "twitter": "تويتر",
+      "pinterest": "بنتريست",
+      "google": "جوجل +",
+      "instagram": "انستجرام",
+      "tumblr": "تمبلر",
+      "youtube": "يوتيوب",
+      "vimeo": "فينمو",
+      "fancy": "فانسي",
+      "RSS": "RSS"
     }
   },
   "products": {
