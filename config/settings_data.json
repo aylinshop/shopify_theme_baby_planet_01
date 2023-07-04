@@ -2147,9 +2147,9 @@
             "settings": {
               "class": "fa fa-gift",
               "class_color": "#000000",
-              "title": "Special Gift Cards",
+              "title": "بطاقة هدية خاصة",
               "title_color": "#000000",
-              "desc": "Special Gift Cards",
+              "desc": "بطاقات هدايا مميزة",
               "desc_color": "#000000",
               "link": "#"
             }
@@ -2159,9 +2159,9 @@
             "settings": {
               "class": "fa fa-reply",
               "class_color": "#000000",
-              "title": "Free Return",
+              "title": "امكانية التبديل",
               "title_color": "#000000",
-              "desc": "Within 7 Days",
+              "desc": "امكانية تبديل المنتج بعد الشراء ضمن سياسة المتجر",
               "desc_color": "#000000",
               "link": "#"
             }
