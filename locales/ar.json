@@ -87,7 +87,7 @@
       "subtotal": "المجموع",
       "cart_total": "مجموع السلة : ",
       "savings_html": "اجمالي التوفير {{ price }}",
-      "shipping_at_checkout": "",
+      "shipping_at_checkout": "سوف يتم احتساب الشحن عند وصولك الى الدفع",
       "update": "تحديث السلة",
       "checkout": "الدفع",
       "view_cart": "مشاهدة السلة",
