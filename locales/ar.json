@@ -323,10 +323,10 @@
       "browse_wishlist": "تصفح الامنيات",
       "add_to_wishlist": "اضافة الى الامنيات",
       "wishlist_name": "الامنيات",
-      "wishlist_title": "",
+      "wishlist_title": "قائمة الاعجابات",
       "no_collections_html": "",
-      "wishlist_empty": "",
-      "view_product": ""
+      "wishlist_empty": "قائمة الاعجابات فارغة",
+      "view_product": "استعراض المنتجات"
     },
     "zoom": {
       "next": "",
