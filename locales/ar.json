@@ -475,7 +475,8 @@
         "full_title": "{{pageTitle}} - {{shopName}} - الدفع",
         "loading_title": "الدفع الى - {{shopName}}",
         "display_name": "{{firstName}} {{lastName}}",
-        "submit_for_review_notice_label": "مراجعة الطلب"
+        "submit_for_review_notice_label": "مراجعة الطلب",
+        "autocomplete_powered_by_google": "انشىء عن طريق {{brandName}}"
       },
       "contact": {
         "city_label": "المدينة",
