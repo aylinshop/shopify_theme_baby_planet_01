@@ -453,7 +453,10 @@
       "contact": {
         "city_label": "المدينة",
         "country_label": "الدولة",
-        "country_code": "الرقم الدولي"
+        "country_code": "الرقم الدولي",
+        "phone_label": "رقم الهاتف",
+        "different_shipping_address_label": "الشحن الى عنوان مختلف",
+        "different_shipping_address_text": "استخدام هذا العنوان لمرة واحدة للشحن"
       }
     }
   }
