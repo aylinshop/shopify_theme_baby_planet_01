@@ -294,7 +294,7 @@
   },
   "products": {
     "general": {
-      "from_html": "",
+      "from_html": "من {{ price }}",
       "share_title": "مشاركة في : ",
       "related_products_title": "قد يعجبك ايضا"
     },
