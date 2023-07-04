@@ -462,7 +462,8 @@
         "quantity_column_header": "الكمية",
         "price_column_header": "السعر",
         "status_column_header": "الحالة",
-        "removed_from_cart_notice": "ازالة من عربة التسوق"
+        "removed_from_cart_notice": "ازالة من عربة التسوق",
+        "remove_from_cart_button_label": "ازالة من عربة التسوق"
       }
     }
   }
