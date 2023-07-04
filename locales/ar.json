@@ -466,7 +466,11 @@
         "stepper": {
           "increase": "زيادة {{ type }}",
           "decrease": "تقليل {{ type }}"
-        }
+        },
+        "page_title": "الدفع",
+        "close_modal_label": "اغلاق",
+        "close_notice_label": "اغلاق",
+        "expand_notice_label": "مشاهدة المزيد"
       },
       "contact": {
         "city_label": "المدينة",
@@ -487,6 +491,11 @@
         "remove": "ازالة",
         "empty_cart_label": "عربة التسوق فارغة"
       }
+    },
+    "sentence": {
+      "words_connector": "و",
+      "two_words_connector": "و",
+      "last_word_connector": "و"
     }
   }
 }
