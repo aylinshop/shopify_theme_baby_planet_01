@@ -58,7 +58,7 @@
       "older_post": "المقالات السابقة",
       "newer_post": "المقالات الحديثة",
       "tags": "اشارة : ",
-      "comment_meta_html": "{{ author }} في {{ date}}",
+      "comment_meta_html": "{{ author }} في {{ date }}",
       "read_more": "مشاهدة المزيد"
     },
     "comments": {
