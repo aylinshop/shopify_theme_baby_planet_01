@@ -63,11 +63,11 @@
     },
     "comments": {
       "title": "",
-      "name": "",
-      "email": "",
+      "name": "الاسم",
+      "email": "البريد الالكتروني",
       "message": "",
-      "post": "",
-      "comments": "",
+      "post": "اضافة تعليق",
+      "comments": "التعليقات",
       "moderated": "",
       "success_moderated": "",
       "success": ""
