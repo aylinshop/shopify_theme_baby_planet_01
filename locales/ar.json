@@ -99,12 +99,12 @@
       "items": ""
     },
     "label": {
-      "product": "",
-      "price": "",
-      "quantity": "",
-      "total": "",
-      "remove": "",
-      "add_note": ""
+      "product": "المنتجات",
+      "price": "السعر",
+      "quantity": "الكمية",
+      "total": "المجموع",
+      "remove": "ازالة",
+      "add_note": "اضف ملاحظة"
     }
   },
   "collections": {
