@@ -448,7 +448,10 @@
           }
         },
         "back_to_contact_information": "الرجوع الى معلوماتك الشخصية",
-        "submit": "اعتمد"
+        "submit": "اعتمد",
+        "autocomplete_single_item": "منتج واحد متاح",
+        "autocomplete_multi_item": "{{number}} منتج متاح",
+        "autocomplete_selection": "{{number}} من {{total}}"
       },
       "contact": {
         "city_label": "المدينة",
