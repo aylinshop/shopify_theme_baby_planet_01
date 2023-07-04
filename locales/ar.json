@@ -208,10 +208,10 @@
       "none": ""
     },
     "order": {
-      "title": "",
-      "date": "",
-      "cancelled": "",
-      "cancelled_reason": "",
+      "title": "طلب {{ name }}",
+      "date": "بتاريخ {{ date }}",
+      "cancelled": "تم الغاءه في {{ date }}",
+      "cancelled_reason": "السبب : {{ reason }}",
       "billing_address": "",
       "payment_status": "حالة الدفع",
       "shipping_address": "عنوان الشحن",
