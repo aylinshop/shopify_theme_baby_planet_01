@@ -431,8 +431,24 @@
             "friday": "الجمعة",
             "saturday": "السبت",
             "sunday": "الاحد"
+          },
+          "months": {
+            "january": "كانون الثاني",
+            "february": "شباط",
+            "march": "اذار",
+            "april": "نسيان",
+            "may": "ايار",
+            "june": "حزيران",
+            "july": "تموز",
+            "august": "اب",
+            "september": "ايلول",
+            "october": "تشرين الاول",
+            "november": "تشرين الثاني",
+            "december": "كانون الاول"
           }
-        }
+        },
+        "back_to_contact_information": "الرجوع الى معلوماتك الشخصية",
+        "submit": "اعتمد"
       }
     }
   }
