@@ -412,7 +412,16 @@
         "back_to_shipping_method": "الرجوع الى الشحن",
         "back_to_payment_method": "الرجوع الى طريقة الدفع",
         "choose_shipping_method": "اختيار طريقة الشحن",
-        "choose_payment_method": "اختيار طريقة الدفع"
+        "choose_payment_method": "اختيار طريقة الدفع",
+        "tooltip_accessibility_label": "مزيد من المعلومات : ",
+        "full_price": "مجموع السعر : ",
+        "submit_order_button_label": "أعتمد الطلب",
+        "submit_for_review_button_label": "مراجعة الطلب",
+        "back_button_label": "الرجوع",
+        "choose_delivery_strategy": "اختيار طريقة التوصيل",
+        "autocomplete_zero_item": "لا يوجد منتجات متاجة",
+        "processing": "قيد التنفيذ ...",
+        "remove_item": "الغاء {{ label }}"
       }
     }
   }
