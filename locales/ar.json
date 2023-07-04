@@ -268,10 +268,10 @@
   },
   "layout": {
     "navigation": {
-      "menu": ""
+      "menu": "القائمة"
     },
     "cart": {
-      "title": ""
+      "title": "سلة المشتريات"
     },
     "customer": {
       "account": "حسابي",
