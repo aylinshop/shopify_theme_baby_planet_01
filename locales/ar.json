@@ -55,9 +55,9 @@
   },
   "blogs": {
     "article": {
-      "older_post": "",
-      "newer_post": "",
-      "tags": "",
+      "older_post": "المقالات السابقة",
+      "newer_post": "المقالات الحديثة",
+      "tags": "اشارة : ",
       "comment_meta_html": "",
       "read_more": "مشاهدة المزيد"
     },
@@ -65,8 +65,8 @@
       "title": "التعليقات",
       "name": "الاسم",
       "email": "البريد الالكتروني",
-      "message": "",
-      "post": "اضافة تعليق",
+      "message": "اضافة تعليق",
+      "post": "نشر تعليق",
       "comments": "التعليقات",
       "moderated": "",
       "success_moderated": "",
