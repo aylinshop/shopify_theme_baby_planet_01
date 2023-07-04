@@ -451,7 +451,10 @@
         "submit": "اعتمد",
         "autocomplete_single_item": "منتج واحد متاح",
         "autocomplete_multi_item": "{{number}} منتج متاح",
-        "autocomplete_selection": "{{number}} من {{total}}"
+        "autocomplete_selection": "{{number}} من {{total}}",
+        "choose_billing_address": "اختيار عنوان الشحن",
+        "contact_us_html": "تواصل معنا لمزيد من المعلومات",
+        "autocomplete_title": "مقترح"
       },
       "contact": {
         "city_label": "المدينة",
