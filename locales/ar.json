@@ -237,7 +237,7 @@
     },
     "reset_password": {
       "title": "اعادة تعين الرقم السري",
-      "subtext": "",
+      "subtext": "اضافة رقم سري جديد لــ {{ email }}",
       "password": "الرقم السري",
       "password_confirm": "تأكيد الرقم السري",
       "submit": "تغير الرقم السري"
