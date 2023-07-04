@@ -111,10 +111,10 @@
     "general": {
       "title": "",
       "no_matches": "نعتذر , لايوجد منتجات في هذه القائمة",
-      "link_title": "",
-      "items_perpage": "",
-      "grid_view": "",
-      "list_view": ""
+      "link_title": "تصفح {{ title }} ",
+      "items_perpage": "المنتج في صفحة",
+      "grid_view": "عرض المنتج",
+      "list_view": "مجموعة المشاهدة"
     },
     "toolbar": {
       "view_as": "",
