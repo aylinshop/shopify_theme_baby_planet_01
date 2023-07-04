@@ -394,5 +394,26 @@
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "error_page_title": "حدث خطأ ما",
+        "continue_button_label": "اكمال الدفع",
+        "complete_purchase_button_label": "اكمال الطلب",
+        "pay_now_button_label": "ادفع الان",
+        "edit_link_label": "تعديل",
+        "all_rights_reserved": "جميع الحقوق محفوظة لـ {{ shop_name }}",
+        "cart": "السلة",
+        "continue_to_shipping_method": "أكمال الى طريقة الشحن",
+        "continue_to_payment_method": "أكمال الى طرق الدفع",
+        "continue_to_review": "مراجعة طلب الشراء",
+        "back_to_cart": "الرجوع الى السلة",
+        "back_to_shipping_method": "الرجوع الى الشحن",
+        "back_to_payment_method": "الرجوع الى طريقة الدفع",
+        "choose_shipping_method": "اختيار طريقة الشحن",
+        "choose_payment_method": "اختيار طريقة الدفع"
+      }
+    }
   }
 }
