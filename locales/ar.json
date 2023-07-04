@@ -353,14 +353,14 @@
   "pagefly": {
     "products": {
       "product": {
-        "regular_price": "Regular price",
-        "sold_out": "Sold out",
-        "unavailable": "Unavailable",
-        "on_sale": "Sale",
-        "quantity": "Quantity",
-        "add_to_cart": "Add to cart",
-        "back_to_collection": "Back to {{ title }}",
-        "view_details": "View details"
+        "regular_price": "السعر السعر",
+        "sold_out": "نفذ المخزون",
+        "unavailable": "غير متاح",
+        "on_sale": "يوجد خصم",
+        "quantity": "الكمية",
+        "add_to_cart": "اضافة الى سلة المشتريات",
+        "back_to_collection": "الرجوع الى {{ title }}",
+        "view_details": "مشاهدة التفاصيل"
       }
     },
     "article": {
@@ -368,8 +368,8 @@
       "all_topics": "All topics",
       "by_author": "by {{ author }}",
       "posted_in": "Posted in",
-      "read_more": "Read more",
-      "back_to_blog": "Back to {{ title }}"
+      "read_more": "مشاهدة المزيد",
+      "back_to_blog": "الرجوع الى {{ title }}"
     },
     "comments": {
       "title": "اضافة تعليق",
