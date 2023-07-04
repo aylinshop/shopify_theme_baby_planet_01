@@ -69,8 +69,8 @@
       "post": "نشر تعليق",
       "comments": "التعليقات",
       "moderated": "سوف يتم مراجعة محتوى التعليق قبل النشر",
-      "success_moderated": "",
-      "success": ""
+      "success_moderated": "تم نشر تعليق سوف يتم نشر التعليق قريبا ..",
+      "success": "تم نشر تعليقك بنجاح .. شكرا لك !"
     },
     "sidebar": {
       "recent_articles": "آخر المقالات",
