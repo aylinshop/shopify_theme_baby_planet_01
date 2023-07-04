@@ -59,10 +59,10 @@
       "newer_post": "",
       "tags": "",
       "comment_meta_html": "",
-      "read_more": ""
+      "read_more": "مشاهدة المزيد"
     },
     "comments": {
-      "title": "",
+      "title": "التعليقات",
       "name": "الاسم",
       "email": "البريد الالكتروني",
       "message": "",
@@ -73,8 +73,8 @@
       "success": ""
     },
     "sidebar": {
-      "recent_articles": "",
-      "categories": ""
+      "recent_articles": "آخر المقالات",
+      "categories": "الاقسام"
     }
   },
   "cart": {
