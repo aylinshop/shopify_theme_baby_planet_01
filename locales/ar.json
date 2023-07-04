@@ -324,7 +324,7 @@
       "add_to_wishlist": "اضافة الى الاعجابات",
       "wishlist_name": "اعجبني",
       "wishlist_title": "قائمة الاعجابات",
-      "no_collections_html": "",
+      "no_collections_html": "لانشاء قائمة اعجابات يجب عليك  <a href='\/account\/login'>sign in<\/a> or <a href='\/account\/register'>انشاء حساب<\/a>. <a href='\/account\/login'>تسجيل الدخول<\/a> or <a href='\/account\/register'>انشاء حساب<\/a>.",
       "wishlist_empty": "قائمة الاعجابات فارغة",
       "view_product": "استعراض المنتجات"
     },
