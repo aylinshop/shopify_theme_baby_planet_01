@@ -31,11 +31,11 @@
       "all_collections": "جميع المنتجات"
     },
     "newsletter_form": {
-      "newsletter_email": "",
+      "newsletter_email": "بريدك الالكتروني",
       "submit": "ارسال",
       "mailing_list_success_message": "شكرا لاشتراكك في موقعنا !",
-      "popup_newsletter_title": "",
-      "popup_newsletter_message": ""
+      "popup_newsletter_title": "متابعة اخر المنتجات",
+      "popup_newsletter_message": "اشتراك لمتابعة اخر العروض والمنتجات"
     },
     "search": {
       "loading": "تحميل",
