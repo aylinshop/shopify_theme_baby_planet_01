@@ -94,9 +94,9 @@
       "empty": "السلة فارغة !",
       "continue_browsing_html": "",
       "continue_shopping": "أكمال التسوق",
-      "added_to_cart": "",
-      "item": "عنصر",
-      "items": "عناصر"
+      "added_to_cart": "اضافة الى السلة",
+      "item": "منتج",
+      "items": "منتجات"
     },
     "label": {
       "product": "المنتجات",
