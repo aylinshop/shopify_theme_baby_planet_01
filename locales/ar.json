@@ -126,9 +126,9 @@
       "next": "التالي"
     },
     "sorting": {
-      "title": "",
-      "browse": "",
-      "all_tags": "",
+      "title": "فرز حسب",
+      "browse": "استعراض حسب",
+      "all_tags": "جميع الاشارات",
       "featured": "الفرز حسب",
       "best_selling": "الأكثر مبيعا",
       "az": "A-Z",
