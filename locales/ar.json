@@ -212,7 +212,7 @@
       "date": "بتاريخ {{ date }}",
       "cancelled": "تم الغاءه في {{ date }}",
       "cancelled_reason": "السبب : {{ reason }}",
-      "billing_address": "",
+      "billing_address": "عنوان الشحن",
       "payment_status": "حالة الدفع",
       "shipping_address": "عنوان الشحن",
       "fulfillment_status": "",
