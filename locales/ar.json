@@ -462,6 +462,10 @@
           "new_window": "فتح في صفحة جديدة",
           "external": "فتح في صفحة خارجية جديدة",
           "external_and_new_window": "فتح صفحة خارجية جديدة بعلامة تبويب اخرى"
+        },
+        "stepper": {
+          "increase": "زيادة {{ type }}",
+          "decrease": "تقليل {{ type }}"
         }
       },
       "contact": {
