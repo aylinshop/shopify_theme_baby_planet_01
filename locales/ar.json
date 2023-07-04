@@ -329,9 +329,9 @@
       "view_product": "استعراض المنتجات"
     },
     "zoom": {
-      "next": "",
-      "prev": "",
-      "close": ""
+      "next": "تكبير",
+      "prev": "تصغير",
+      "close": "اغلاق"
     }
   },
   "gift_cards": {
