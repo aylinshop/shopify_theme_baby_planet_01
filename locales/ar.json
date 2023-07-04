@@ -353,14 +353,14 @@
   "pagefly": {
     "products": {
       "product": {
-        "regular_price": "Regular price",
-        "sold_out": "Sold out",
-        "unavailable": "Unavailable",
-        "on_sale": "Sale",
-        "quantity": "Quantity",
-        "add_to_cart": "Add to cart",
-        "back_to_collection": "Back to {{ title }}",
-        "view_details": "View details"
+        "regular_price": "السعر السعر",
+        "sold_out": "نفذ المخزون",
+        "unavailable": "غير متاح",
+        "on_sale": "يوجد خصم",
+        "quantity": "الكمية",
+        "add_to_cart": "اضافة الى سلة المشتريات",
+        "back_to_collection": "الرجوع الى {{ title }}",
+        "view_details": "مشاهدة التفاصيل"
       }
     },
     "article": {
@@ -368,21 +368,21 @@
       "all_topics": "All topics",
       "by_author": "by {{ author }}",
       "posted_in": "Posted in",
-      "read_more": "Read more",
-      "back_to_blog": "Back to {{ title }}"
+      "read_more": "مشاهدة المزيد",
+      "back_to_blog": "الرجوع الى {{ title }}"
     },
     "comments": {
-      "title": "Leave a comment",
-      "name": "Name",
-      "email": "Email",
-      "message": "Message",
-      "post": "Post comment",
+      "title": "اضافة تعليق",
+      "name": "الاسم",
+      "email": "البريد الالكتروني",
+      "message": "التعليق",
+      "post": "نشر التعليق",
       "moderated": "Please note, comments must be approved before they are published",
       "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
       "success": "Your comment was posted successfully! Thank you!",
       "comments_with_count": {
-        "one": "{{ count }} comment",
-        "other": "{{ count }} comments"
+        "one": "{{ count }} تعليق",
+        "other": "{{ count }} تعليقات"
       }
     },
     "password_page": {
@@ -489,7 +489,26 @@
         "country_code": "الرقم الدولي",
         "phone_label": "رقم الهاتف",
         "different_shipping_address_label": "الشحن الى عنوان مختلف",
-        "different_shipping_address_text": "استخدام هذا العنوان لمرة واحدة للشحن"
+        "different_shipping_address_text": "استخدام هذا العنوان لمرة واحدة للشحن",
+        "contact_method_title": "طريقة التواصل",
+        "email_label": "البريد الالكتروني",
+        "email_or_phone_label": "البريد الالكتروني او الهاتف",
+        "email_or_phone_placeholder": "البريد الالكتروني او الهاتف",
+        "new_address_label": "استخدام عنوان جديد",
+        "first_name_label": "الاسم الاول",
+        "last_name_label": "الاسم الاخير (العائلة)",
+        "company_label": "الشركة",
+        "optional_company_label": "الشركة",
+        "address1_label": "الحي",
+        "address2_label": "المنطقة",
+        "optional_address2_label": "منطقة (اختياري)",
+        "county_label": "الدولة",
+        "county_placeholder": "الدولة",
+        "state_label": "الحالة",
+        "state_placeholder": "الحالة",
+        "region_label": "المنطقة",
+        "region_placeholder": "المنطقة",
+        "region_none": "غير موجود"
       },
       "stock": {
         "quantity_column_header": "الكمية",
