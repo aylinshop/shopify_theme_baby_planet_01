@@ -456,7 +456,8 @@
         "contact_us_html": "تواصل معنا لمزيد من المعلومات",
         "autocomplete_title": "مقترح",
         "google_map_title": "خرائط جوجل",
-        "continue_to_payment_plans_button_label": "اكمل الى طريقة الدفع"
+        "continue_to_payment_plans_button_label": "اكمل الى طريقة الدفع",
+        "remove_tag": "ازالة الاشارة"
       },
       "contact": {
         "city_label": "المدينة",
