@@ -109,7 +109,7 @@
   },
   "collections": {
     "general": {
-      "title": "",
+      "title": "الموديلات",
       "no_matches": "نعتذر , لايوجد منتجات في هذه القائمة",
       "link_title": "تصفح {{ title }} ",
       "items_perpage": "المنتج في صفحة",
