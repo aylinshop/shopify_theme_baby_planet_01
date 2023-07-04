@@ -299,9 +299,9 @@
       "related_products_title": ""
     },
     "product": {
-      "sold_out": "",
-      "sale": "",
-      "unavailable": "",
+      "sold_out": "نفذ من المخزون",
+      "sale": "خصم",
+      "unavailable": "غير متوفر",
       "compare_at": "",
       "add_to_cart": "",
       "availability": "",
