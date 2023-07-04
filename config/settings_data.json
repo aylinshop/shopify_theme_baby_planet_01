@@ -1637,7 +1637,7 @@
         "type": "sidebar-bestsellers",
         "settings": {
           "show_best_products": true,
-          "title": "Best Sellers",
+          "title": "الاكثر مبيعا",
           "bestseller": "frontpage",
           "limit": "4"
         }
