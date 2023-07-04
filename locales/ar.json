@@ -26,9 +26,9 @@
       "close": "آغلاق"
     },
     "breadcrumbs": {
-      "home": "",
-      "home_link_title": "",
-      "all_collections": ""
+      "home": "الرئيسية",
+      "home_link_title": "الرجوع الى الصفحة الرئيسية",
+      "all_collections": "جميع المنتجات"
     },
     "newsletter_form": {
       "newsletter_email": "",
