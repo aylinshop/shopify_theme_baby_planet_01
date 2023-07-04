@@ -449,6 +449,11 @@
         },
         "back_to_contact_information": "الرجوع الى معلوماتك الشخصية",
         "submit": "اعتمد"
+      },
+      "contact": {
+        "city_label": "المدينة",
+        "country_label": "الدولة",
+        "country_code": "الرقم الدولي"
       }
     }
   }
