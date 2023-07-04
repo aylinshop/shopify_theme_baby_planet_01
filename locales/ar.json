@@ -421,7 +421,18 @@
         "choose_delivery_strategy": "اختيار طريقة التوصيل",
         "autocomplete_zero_item": "لا يوجد منتجات متاجة",
         "processing": "قيد التنفيذ ...",
-        "remove_item": "الغاء {{ label }}"
+        "remove_item": "الغاء {{ label }}",
+        "dates": {
+          "weekdays": {
+            "monday": "الاثنين",
+            "tuesday": "الثلاثاء",
+            "wednesday": "الاربعاء",
+            "thursday": "الخميس",
+            "friday": "الجمعة",
+            "saturday": "السبت",
+            "sunday": "الاحد"
+          }
+        }
       }
     }
   }
