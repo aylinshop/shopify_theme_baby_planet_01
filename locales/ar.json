@@ -261,9 +261,9 @@
       "add_product": "اضافة منتج",
       "product_title": "اسم المنتج",
       "no_collections_html": "",
-      "add_collection": "",
-      "collection_title": "",
-      "no_content": ""
+      "add_collection": "اضافة مجموعة",
+      "collection_title": "اسم المجموعة",
+      "no_content": "لم تقم باختيار منتجات حتى الان !"
     }
   },
   "layout": {
