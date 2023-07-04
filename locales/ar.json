@@ -91,12 +91,12 @@
       "update": "",
       "checkout": "",
       "view_cart": "",
-      "empty": "",
+      "empty": "السلة فارغة !",
       "continue_browsing_html": "",
-      "continue_shopping": "",
+      "continue_shopping": "أكمال التسوق",
       "added_to_cart": "",
-      "item": "",
-      "items": ""
+      "item": "عنصر",
+      "items": "عناصر"
     },
     "label": {
       "product": "المنتجات",
