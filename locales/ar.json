@@ -158,12 +158,12 @@
       "return": ""
     },
     "activate_account": {
-      "title": "",
-      "subtext": "",
-      "password": "",
-      "password_confirm": "",
-      "submit": "",
-      "cancel": ""
+      "title": "تفعيل الحساب",
+      "subtext": "انشاء رقم سري لتفعيل الحساب",
+      "password": "الرقم السري",
+      "password_confirm": "تاكيد الرقم السري",
+      "submit": "تفعيل الحساب",
+      "cancel": "ألغاء"
     },
     "addresses": {
       "title": "",
