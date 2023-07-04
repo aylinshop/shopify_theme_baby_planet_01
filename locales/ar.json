@@ -133,10 +133,10 @@
       "best_selling": "الأكثر مبيعا",
       "az": "A-Z",
       "za": "Z-A",
-      "price_ascending": "",
-      "price_descending": "",
-      "date_descending": "",
-      "date_ascending": ""
+      "price_ascending": "السعر تصاعدي",
+      "price_descending": "السعر تنازلي",
+      "date_descending": "التاريخ , تصاعدي من الاحدث",
+      "date_ascending": " التاريخ , تنازلي من الاقدم"
     }
   },
   "contact": {
