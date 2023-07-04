@@ -110,7 +110,7 @@
   "collections": {
     "general": {
       "title": "",
-      "no_matches": "",
+      "no_matches": "نعتذر , لايوجد منتجات في هذه القائمة",
       "link_title": "",
       "items_perpage": "",
       "grid_view": "",
