@@ -86,7 +86,7 @@
       "additional_savings": "توفيرات اضافية",
       "subtotal": "المجموع",
       "cart_total": "مجموع السلة : ",
-      "savings_html": "تم توفير {{ price }}",
+      "savings_html": "اجمالي التوفير {{ price }}",
       "shipping_at_checkout": "",
       "update": "تحديث السلة",
       "checkout": "",
