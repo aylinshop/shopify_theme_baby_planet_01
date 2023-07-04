@@ -20,9 +20,9 @@
       "signup_form_email_placeholder": "بريدك الالكتروني",
       "signup_form_submit": "تسجيل",
       "signup_form_success": "سوف نرسل لك بريد قبل الأفتتاح",
-      "admin_link_html": "",
-      "password_link": "",
-      "powered_by_shopify_html": "",
+      "admin_link_html": "هل انت مدير المتجر? <a href=\"\/admin\" class=\"text-link\">سجل دخول هنا<\/a>",
+      "password_link": "ادخل الرقم السري",
+      "powered_by_shopify_html": ".",
       "close": "آغلاق"
     },
     "breadcrumbs": {
