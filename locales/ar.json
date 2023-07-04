@@ -457,6 +457,12 @@
         "phone_label": "رقم الهاتف",
         "different_shipping_address_label": "الشحن الى عنوان مختلف",
         "different_shipping_address_text": "استخدام هذا العنوان لمرة واحدة للشحن"
+      },
+      "stock": {
+        "quantity_column_header": "الكمية",
+        "price_column_header": "السعر",
+        "status_column_header": "الحالة",
+        "removed_from_cart_notice": "ازالة من عربة التسوق"
       }
     }
   }
