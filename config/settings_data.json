@@ -2134,11 +2134,11 @@
             "type": "text",
             "settings": {
               "class": "fa fa-truck",
-              "class_color": "#000",
-              "title": "Free Shipping",
-              "title_color": "#000",
-              "desc": "Free On All Products",
-              "desc_color": "#000",
+              "class_color": "#000000",
+              "title": "شحن سريع",
+              "title_color": "#000000",
+              "desc": "شحن في اقل من اسبوع",
+              "desc_color": "#000000",
               "link": "#"
             }
           },
@@ -2146,11 +2146,11 @@
             "type": "text",
             "settings": {
               "class": "fa fa-gift",
-              "class_color": "#000",
+              "class_color": "#000000",
               "title": "Special Gift Cards",
-              "title_color": "#000",
+              "title_color": "#000000",
               "desc": "Special Gift Cards",
-              "desc_color": "#000",
+              "desc_color": "#000000",
               "link": "#"
             }
           },
@@ -2158,11 +2158,11 @@
             "type": "text",
             "settings": {
               "class": "fa fa-reply",
-              "class_color": "#000",
+              "class_color": "#000000",
               "title": "Free Return",
-              "title_color": "#000",
+              "title_color": "#000000",
               "desc": "Within 7 Days",
-              "desc_color": "#000",
+              "desc_color": "#000000",
               "link": "#"
             }
           }
@@ -2181,8 +2181,8 @@
           "show_best_products": true,
           "title": "Weekly featured",
           "dealitems": "frontpage",
-          "dealbtn_border": "#000",
-          "dealbtn": "#000",
+          "dealbtn_border": "#000000",
+          "dealbtn": "#000000",
           "dealbtn_text": "#ffffff",
           "limit": "4"
         }
