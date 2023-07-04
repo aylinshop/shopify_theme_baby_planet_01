@@ -68,7 +68,7 @@
       "message": "اضافة تعليق",
       "post": "نشر تعليق",
       "comments": "التعليقات",
-      "moderated": "",
+      "moderated": "سوف يتم مراجعة محتوى التعليق قبل النشر",
       "success_moderated": "",
       "success": ""
     },
