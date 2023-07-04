@@ -454,7 +454,9 @@
         "autocomplete_selection": "{{number}} من {{total}}",
         "choose_billing_address": "اختيار عنوان الشحن",
         "contact_us_html": "تواصل معنا لمزيد من المعلومات",
-        "autocomplete_title": "مقترح"
+        "autocomplete_title": "مقترح",
+        "google_map_title": "خرائط جوجل",
+        "continue_to_payment_plans_button_label": "اكمل الى طريقة الدفع"
       },
       "contact": {
         "city_label": "المدينة",
