@@ -92,7 +92,7 @@
       "checkout": "الدفع",
       "view_cart": "مشاهدة السلة",
       "empty": "السلة فارغة !",
-      "continue_browsing_html": "",
+      "continue_browsing_html": "اكمل التصفح <a href=\"\/collections\/all\">هنا<\/a>.",
       "continue_shopping": "أكمال التسوق",
       "added_to_cart": "اضافة الى السلة",
       "item": "منتج",
