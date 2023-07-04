@@ -32,8 +32,8 @@
     },
     "newsletter_form": {
       "newsletter_email": "",
-      "submit": "",
-      "mailing_list_success_message": "",
+      "submit": "ارسال",
+      "mailing_list_success_message": "شكرا لاشتراكك في موقعنا !",
       "popup_newsletter_title": "",
       "popup_newsletter_message": ""
     },
