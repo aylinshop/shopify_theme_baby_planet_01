@@ -243,14 +243,14 @@
       "submit": ""
     },
     "register": {
-      "create_account": "",
-      "title": "",
-      "first_name": "",
-      "last_name": "",
-      "email": "",
-      "password": "",
-      "submit": "",
-      "cancel": ""
+      "create_account": "التسجيل",
+      "title": "انشاء حساب",
+      "first_name": "الاسم الاول",
+      "last_name": "الاسم الاخير",
+      "email": "الببريد الالكتروني",
+      "password": "الرقم السري",
+      "submit": "أنشاء حساب",
+      "cancel": "الغاء"
     }
   },
   "home_page": {
