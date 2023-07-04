@@ -38,13 +38,13 @@
       "popup_newsletter_message": ""
     },
     "search": {
-      "loading": "",
-      "error": "",
-      "no_results_html": "",
-      "results_for_html": "",
-      "title": "",
+      "loading": "تحميل",
+      "error": "خطأ",
+      "no_results_html": "لم يتم ايجاد \"{{ terms }}\" في نتائج الموقع",
+      "results_for_html": "تم ايجاد \"{{ terms }}\" في نتائج الموقع",
+      "title": "ابحث عن منتج في موقعنا",
       "placeholder": "",
-      "submit": ""
+      "submit": "بحث"
     },
     "social": {
       "share_on_facebook": "",
@@ -343,7 +343,7 @@
       "active": "",
       "redeem": "",
       "shop_link": "",
-      "print": "",
+      "print": "طباقة",
       "add_to_apple_wallet": ""
     }
   },
