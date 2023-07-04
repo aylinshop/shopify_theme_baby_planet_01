@@ -43,14 +43,14 @@
       "no_results_html": "لم يتم ايجاد \"{{ terms }}\" في نتائج الموقع",
       "results_for_html": "تم ايجاد \"{{ terms }}\" في نتائج الموقع",
       "title": "ابحث عن منتج في موقعنا",
-      "placeholder": "",
+      "placeholder": "المنتج المراد البحث عنه ",
       "submit": "بحث"
     },
     "social": {
-      "share_on_facebook": "",
-      "share_on_twitter": "",
-      "share_on_pinterest": "",
-      "share_on_fancy": ""
+      "share_on_facebook": "مشاركة",
+      "share_on_twitter": "مشاركة",
+      "share_on_pinterest": "مشاركة",
+      "share_on_fancy": "مشاركة"
     }
   },
   "blogs": {
