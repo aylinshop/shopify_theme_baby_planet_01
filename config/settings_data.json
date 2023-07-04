@@ -2179,7 +2179,7 @@
         "type": "product-sidebar-deals",
         "settings": {
           "show_best_products": true,
-          "title": "Weekly featured",
+          "title": "الأفضل خلال هذا الاسبوع",
           "dealitems": "frontpage",
           "dealbtn_border": "#000000",
           "dealbtn": "#000000",
