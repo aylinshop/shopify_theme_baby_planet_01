@@ -465,7 +465,9 @@
         },
         "stepper": {
           "increase": "زيادة {{ type }}",
-          "decrease": "تقليل {{ type }}"
+          "decrease": "تقليل {{ type }}",
+          "minimum_reached": "اقل كمية {{value}} ",
+          "maximum_reached": "اعلى كمية {{value}} "
         },
         "page_title": "الدفع",
         "close_modal_label": "اغلاق",
@@ -476,7 +478,10 @@
         "loading_title": "الدفع الى - {{shopName}}",
         "display_name": "{{firstName}} {{lastName}}",
         "submit_for_review_notice_label": "مراجعة الطلب",
-        "autocomplete_powered_by_google": "انشىء عن طريق {{brandName}}"
+        "autocomplete_powered_by_google": "انشىء عن طريق {{brandName}}",
+        "checkout_context": {
+          "step_one": "{{ shop_name }} - الدفع"
+        }
       },
       "contact": {
         "city_label": "المدينة",
