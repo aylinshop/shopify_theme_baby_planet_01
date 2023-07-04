@@ -238,8 +238,8 @@
     "reset_password": {
       "title": "اعادة تعين الرقم السري",
       "subtext": "",
-      "password": "",
-      "password_confirm": "",
+      "password": "الرقم السري",
+      "password_confirm": "تأكيد الرقم السري",
       "submit": ""
     },
     "register": {
