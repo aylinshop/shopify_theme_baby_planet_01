@@ -79,13 +79,13 @@
   },
   "cart": {
     "general": {
-      "title": "",
-      "mini_cart_title": "",
+      "title": "السلة",
+      "mini_cart_title": "الموجود بالسلة",
       "remove": "ازالة",
       "note": "",
       "additional_savings": "",
       "subtotal": "",
-      "cart_total": "",
+      "cart_total": "مجموع السلة : ",
       "savings_html": "",
       "shipping_at_checkout": "",
       "update": "",
