@@ -228,15 +228,15 @@
       "subtotal": ""
     },
     "recover_password": {
-      "title": "",
-      "email": "",
-      "submit": "",
-      "cancel": "",
-      "subtext": "",
-      "success": ""
+      "title": "اعادة تعين الرقم السري",
+      "email": "البريد الالكتروني",
+      "submit": "اعتمد",
+      "cancel": "الغاء",
+      "subtext": "سوف نقوم بأرسال بريد الكتروني لاعادة تعين الرقم السري .",
+      "success": "قمنا بارسال بريد الاكتروني يحتوي على رابط لاعادة تعين الرقم السري !"
     },
     "reset_password": {
-      "title": "",
+      "title": "اعادة تعين الرقم السري",
       "subtext": "",
       "password": "",
       "password_confirm": "",
