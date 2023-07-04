@@ -240,7 +240,7 @@
       "subtext": "",
       "password": "الرقم السري",
       "password_confirm": "تأكيد الرقم السري",
-      "submit": ""
+      "submit": "تغير الرقم السري"
     },
     "register": {
       "create_account": "التسجيل",
