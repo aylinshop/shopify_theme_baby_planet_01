@@ -274,10 +274,10 @@
       "title": ""
     },
     "customer": {
-      "account": "",
-      "log_out": "",
-      "log_in": "",
-      "create_account": ""
+      "account": "حسابي",
+      "log_out": "تسجيل الخروج",
+      "log_in": "تسجيل الدخول",
+      "create_account": "أنشاء حساب"
     },
     "footer": {
       "facebook": "فيسبوك",
