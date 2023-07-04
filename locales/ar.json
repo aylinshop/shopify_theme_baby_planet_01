@@ -353,14 +353,14 @@
   "pagefly": {
     "products": {
       "product": {
-        "regular_price": "السعر السعر",
-        "sold_out": "نفذ المخزون",
-        "unavailable": "غير متاح",
-        "on_sale": "يوجد خصم",
-        "quantity": "الكمية",
-        "add_to_cart": "اضافة الى سلة المشتريات",
-        "back_to_collection": "الرجوع الى {{ title }}",
-        "view_details": "مشاهدة التفاصيل"
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
       }
     },
     "article": {
@@ -368,21 +368,21 @@
       "all_topics": "All topics",
       "by_author": "by {{ author }}",
       "posted_in": "Posted in",
-      "read_more": "مشاهدة المزيد",
-      "back_to_blog": "الرجوع الى {{ title }}"
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
     },
     "comments": {
-      "title": "اضافة تعليق",
-      "name": "الاسم",
-      "email": "البريد الالكتروني",
-      "message": "التعليق",
-      "post": "نشر التعليق",
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
       "moderated": "Please note, comments must be approved before they are published",
       "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
       "success": "Your comment was posted successfully! Thank you!",
       "comments_with_count": {
-        "one": "{{ count }} تعليق",
-        "other": "{{ count }} تعليقات"
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
       }
     },
     "password_page": {
