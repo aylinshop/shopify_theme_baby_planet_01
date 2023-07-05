@@ -859,9 +859,6 @@
           "cash_on_delivery": "الدفع عند الأستلام - {{formattedTransactionAmount}}",
           "bank_deposit": "ايداع بنكي - {{formattedTransactionAmount}}"
         }
-      },
-      "returns": {
-        "print_shipping_label": "الشحن"
       }
     },
     "payment_methods": {
