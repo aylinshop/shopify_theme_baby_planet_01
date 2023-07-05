@@ -120,7 +120,7 @@
     "small_cart_size": "10px 28px",
     "small_cart_font_size": "13",
     "enable_wishlist": true,
-    "display_product_review": false,
+    "display_product_review": true,
     "display_color_variant": true,
     "collection_grid": "4",
     "collection_results_per_page": "12",
