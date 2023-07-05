@@ -556,7 +556,18 @@
         "items_unavailable_notice": "بعض المنتجات لم تعد متوفرة. تم تحديث عربة التسوق.",
         "product_column_header": "المنتجات",
         "reduced_label": "تقليل",
-        "reduced_with_quantity_label": "بقي {{ quantity_available }} فقط"
+        "reduced_with_quantity_label": "بقي {{ quantity_available }} فقط",
+        "quantity_update": {
+          "page_title": "تحديث كمية المخزون",
+          "title": "تحديث الكمية",
+          "description": "تم تغيير الكميات المتوفرة لهذه المنتجات وتم تحديثها في سلة التسوق الخاصة بك."
+        },
+        "unpurchasable_product": {
+          "title": "منتج غير قابل للشراء",
+          "header": "تمت إزالة بعض المنتجات من عربة التسوق الخاصة بك",
+          "message": "هذه العناصر غير متوفرة لطلبات B2B.",
+          "status_column_header": "غير متاح"
+        }
       },
       "delivery_options": {
         "free_total_label": "مجانا",
