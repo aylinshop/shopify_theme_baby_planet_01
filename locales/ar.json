@@ -795,7 +795,8 @@
         "paypal": {
           "connect": "اضغط لربط حساب الباي بال"
         },
-        "title": "الدفع"
+        "title": "الدفع",
+        "billing_address_title": "عنوان الدفع (للفيزا)"
       },
       "contextual_availability": {
         "title": {
