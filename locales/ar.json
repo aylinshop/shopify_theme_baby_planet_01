@@ -152,10 +152,10 @@
   },
   "customer": {
     "account": {
-      "title": "",
-      "details": "",
-      "view_addresses": "",
-      "return": ""
+      "title": "حسابي",
+      "details": "معلومات الحساب",
+      "view_addresses": "مشاهدة العنوان",
+      "return": "الرجوع الى معلومات الحساب"
     },
     "activate_account": {
       "title": "تفعيل الحساب",
@@ -205,7 +205,7 @@
       "payment_status": "حالة الدفع",
       "fulfillment_status": "",
       "total": "المجموع",
-      "none": ""
+      "none": "لم تختار اي منتج حتى الان"
     },
     "order": {
       "title": "طلب {{ name }}",
@@ -225,7 +225,7 @@
       "quantity": "الكمية",
       "total": "المجموع",
       "fulfilled_at": "",
-      "subtotal": ""
+      "subtotal": "المجموع"
     },
     "recover_password": {
       "title": "اعادة تعين الرقم السري",
