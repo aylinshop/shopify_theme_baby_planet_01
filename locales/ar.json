@@ -535,7 +535,11 @@
         "state_and_territory_label": "منطقة",
         "state_and_territory_placeholder": "منطقة",
         "optional_phone_label": "الهاتف (اختياري)",
-        "phone_placeholder": "الهاتف"
+        "phone_placeholder": "الهاتف",
+        "postcode_label": "الرمز البريدي",
+        "postcode_placeholder": "الرمز البريدي",
+        "change_company_location_link_label": "تغير عنوان الشركة",
+        "change_location_link_label": "تغير العنوان"
       },
       "stock": {
         "quantity_column_header": "الكمية",
