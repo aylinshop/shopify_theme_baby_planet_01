@@ -597,7 +597,8 @@
         "pick_up_in_two_hours": "يتم تجهيزه خلال ساعتين",
         "pick_up_immediately": "جاهز للأستلام !",
         "pick_up_next_day": "جاهز للاستلام غدا",
-        "pickup_point_method_definition": "شحن الى نقطة الاستلام"
+        "pickup_point_method_definition": "شحن الى نقطة الاستلام",
+        "none_method_definition": "لا يوجد شحن"
       },
       "customer_account": {
         "sign_in_link_label": "تسجيل الدخول",
@@ -638,7 +639,8 @@
       },
       "shipping": {
         "shipping_method_title": "منطقة الشحن",
-        "shipping_method_notice": "منطقة الشحن"
+        "shipping_method_notice": "منطقة الشحن",
+        "title": "الشحن"
       },
       "thank_you": {
         "shipping_method_title": "منطقة الشحن",
