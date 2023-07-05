@@ -554,7 +554,9 @@
         "page_title": "الدفع",
         "title": "إنتهى من المخزون",
         "items_unavailable_notice": "بعض المنتجات لم تعد متوفرة. تم تحديث عربة التسوق.",
-        "product_column_header": "المنتجات"
+        "product_column_header": "المنتجات",
+        "reduced_label": "تقليل",
+        "reduced_with_quantity_label": "بقي {{ quantity_available }} فقط"
       },
       "delivery_options": {
         "free_total_label": "مجانا",
