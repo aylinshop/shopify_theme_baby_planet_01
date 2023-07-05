@@ -631,7 +631,13 @@
         "payment_information_title": "طريقة الدفع",
         "shipping_information_title": "الشحن",
         "page_title": "شكرًا لك {{display_name}}!",
-        "page_title_no_name": "شكرا على ثقتكم بنا !"
+        "page_title_no_name": "شكرا على ثقتكم بنا !",
+        "cancelled_page_title": "تم الغاء الطلب",
+        "customer_information_title": "تفاصيل الطلب",
+        "contact_information_title": "معلومات الاتصال",
+        "billing_address_title": "عنوان وصول الفواتير",
+        "company_location_title": "المكان",
+        "shipping_address_title": "عنوان الشحن"
       },
       "order_summary": {
         "deferred_payment_info": {
