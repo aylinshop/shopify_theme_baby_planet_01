@@ -794,7 +794,8 @@
         "use_different_credit_card_label": "استخدم بطاقة اخرى !",
         "paypal": {
           "connect": "اضغط لربط حساب الباي بال"
-        }
+        },
+        "title": "الدفع"
       },
       "contextual_availability": {
         "title": {
