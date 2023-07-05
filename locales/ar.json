@@ -538,6 +538,10 @@
         "pick_up_in_two_hours": "يتم تجهيزه خلال ساعتين",
         "pick_up_immediately": "جاهز للأستلام !",
         "pick_up_next_day": "جاهز للاستلام غدا"
+      },
+      "customer_account": {
+        "sign_in_link_label": "تسجيل الدخول",
+        "sign_out_link_label": "تسجيل الخروج"
       }
     },
     "sentence": {
