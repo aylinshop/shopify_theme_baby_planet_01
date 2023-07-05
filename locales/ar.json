@@ -544,7 +544,8 @@
         "sign_out_link_label": "تسجيل الخروج"
       },
       "marketing": {
-        "accept_marketing_checkbox_label": "تلقي اخر العروض على البريد الالكتروني"
+        "accept_marketing_checkbox_label": "تلقي اخر العروض على البريد الالكتروني",
+        "accept_sms_checkbox_label": "تلقي الرسائل باَخر العروض"
       }
     },
     "sentence": {
