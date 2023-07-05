@@ -253,7 +253,7 @@
     "currency_9_unit": "",
     "currency_10_unit": "",
     "password_bg_img": true,
-    "password_logo": true,
+    "password_logo": false,
     "logo_txt_color": "#ffffff",
     "pwd_header": "Opening Soon",
     "pwd_header_color": "#ffffff",
