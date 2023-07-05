@@ -558,6 +558,11 @@
       },
       "thank_you": {
         "shipping_method_title": "منطقة الشحن"
+      },
+      "order_summary": {
+        "deferred_payment_info": {
+          "paid_today": "اجمالي المدفوع اليوم"
+        }
       }
     },
     "sentence": {
