@@ -550,7 +550,13 @@
       },
       "review": {
         "blocks": {
-          "shipping_address_title": "عنوان الاستلام"
+          "shipping_address_title": "عنوان الاستلام",
+          "contact_method_title": "طريقة التواصل",
+          "shipping_method_title": "منطقة الشحن",
+          "payment_method_title": "طريقة الدفع",
+          "change_contact_method_link_label": "تعديل",
+          "change_shipping_method_link_label": "تعديل",
+          "change_payment_method_link_label": "تعديل"
         }
       },
       "shipping": {
@@ -568,6 +574,14 @@
       },
       "payment_gateway": {
         "cash_on_delivery_label": "الدفع عند الأستلام"
+      },
+      "customer_payment_methods": {
+        "page_title": "طريقة الدفع",
+        "title": "طريقة الدفع",
+        "update_card_button_label": "تحديث البطاقة",
+        "delete_customer_mandate": {
+          "success_message": "تم حذف طريقة الدفع بنجاح"
+        }
       }
     },
     "sentence": {
@@ -589,7 +603,8 @@
       },
       "payment": {
         "manual_payment_methods": {
-          "cash_on_delivery": "الدفع عند الأستلام - {{formattedTransactionAmount}}"
+          "cash_on_delivery": "الدفع عند الأستلام - {{formattedTransactionAmount}}",
+          "bank_deposit": "ايداع بنكي - {{formattedTransactionAmount}}"
         }
       }
     }
