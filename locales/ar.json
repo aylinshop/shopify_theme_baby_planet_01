@@ -582,6 +582,9 @@
         "delete_customer_mandate": {
           "success_message": "تم حذف طريقة الدفع بنجاح"
         }
+      },
+      "payment": {
+        "card_security_notice": "جميع طرق الدفع محمية"
       }
     },
     "sentence": {
@@ -605,6 +608,13 @@
         "manual_payment_methods": {
           "cash_on_delivery": "الدفع عند الأستلام - {{formattedTransactionAmount}}",
           "bank_deposit": "ايداع بنكي - {{formattedTransactionAmount}}"
+        }
+      }
+    },
+    "payment_methods": {
+      "card_fields": {
+        "tooltip": {
+          "card_security_notice": "جميع طرق الدفع محمية"
         }
       }
     }
