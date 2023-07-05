@@ -528,7 +528,10 @@
         "postal_code_placeholder": "الرمز البريدي (اختياري)",
         "ship_to_company": "شحن الى {{companyName}}",
         "title": "المعلومات الشخصية",
-        "address_title": "العنوان"
+        "address_title": "العنوان",
+        "shipping_used_as_billing_notice": "سيتم استخدام هذا أيضًا كعنوان لإرسال الفواتير لهذا الطلب.",
+        "email_placeholder": "البريد الالكتروني",
+        "optional_first_name_label": "الاسم الاول (أختياري)"
       },
       "stock": {
         "quantity_column_header": "الكمية",
