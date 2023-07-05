@@ -117,9 +117,9 @@
       "list_view": "مجموعة المشاهدة"
     },
     "toolbar": {
-      "view_as": "",
-      "show": "",
-      "showing": "",
+      "view_as": "مشاهدة كـ",
+      "show": "عرض",
+      "showing": "يعرض",
       "all": "الرئيسية",
       "of": "من",
       "previous": "السابق",
@@ -131,8 +131,8 @@
       "all_tags": "جميع الاشارات",
       "featured": "الفرز حسب",
       "best_selling": "الأكثر مبيعا",
-      "az": "A-Z",
-      "za": "Z-A",
+      "az": "أبجدي (A-Z)",
+      "za": "أبجدي (Z-A)",
       "price_ascending": "السعر تصاعدي",
       "price_descending": "السعر تنازلي",
       "date_descending": "التاريخ , تصاعدي من الاحدث",
