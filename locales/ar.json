@@ -551,7 +551,7 @@
       "review": {
         "blocks": {
           "shipping_address_title": "عنوان الاستلام",
-          "contact_method_title": "طريقة التواصل",
+          "contact_method_title": "معلومات الطلب الى",
           "shipping_method_title": "منطقة الشحن",
           "payment_method_title": "طريقة الدفع",
           "change_contact_method_link_label": "تعديل",
