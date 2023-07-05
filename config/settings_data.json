@@ -2765,6 +2765,7 @@
       },
       "1571394145318": {
         "type": "product-tab-model",
+        "disabled": true,
         "settings": {
           "bg_color": "#ffffff",
           "main_title": "Babies Toys",
