@@ -365,8 +365,8 @@
     },
     "article": {
       "tags": "Tags:",
-      "all_topics": "All topics",
-      "by_author": "by {{ author }}",
+      "all_topics": "جميع المواضيع",
+      "by_author": "نشر بواسطة {{ author }}",
       "posted_in": "Posted in",
       "read_more": "مشاهدة المزيد",
       "back_to_blog": "الرجوع الى {{ title }}"
