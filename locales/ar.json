@@ -567,6 +567,20 @@
           "header": "تمت إزالة بعض المنتجات من عربة التسوق الخاصة بك",
           "message": "هذه العناصر غير متوفرة لطلبات B2B.",
           "status_column_header": "غير متاح"
+        },
+        "unpurchasable_product_generic": {
+          "title": "لم يتم شرؤوها",
+          "header": "بعض المنتجات تم ازالتها من عربة التسوق",
+          "message": "هذه المنتجات غير متاحة",
+          "status_column_header": "غير متاح"
+        },
+        "unshippable_product": {
+          "title": "ليس هناك طريقة شحن متاحة",
+          "header": {
+            "one": "لا يوجد شحن متاح لعنصر {{count}}",
+            "other": "لا يوجد شحن متاح لـ {{عدد}} من العناصر"
+          },
+          "status_column_header": "لا يوجد توصيل"
         }
       },
       "delivery_options": {
