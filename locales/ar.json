@@ -481,6 +481,13 @@
         "autocomplete_powered_by_google": "انشىء عن طريق {{brandName}}",
         "checkout_context": {
           "step_one": "{{ shop_name }} - الدفع"
+        },
+        "skip_to_content": "تخطى",
+        "authenticate_purchase_button_label": "شراء",
+        "print_policies_link_label": "طباعة",
+        "autocomplete_close": "اغلاق الاقتراحات",
+        "errors": {
+          "line_item_limit_reached": "لم يتم الوصول الى الحد الادنى من المشتريات"
         }
       },
       "contact": {
