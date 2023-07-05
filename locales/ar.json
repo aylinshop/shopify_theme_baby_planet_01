@@ -514,7 +514,8 @@
         "zip_code_label": "الرمز البريدي (اختياري)",
         "zip_code_placeholder": "الرمز البريدي (اختياري)",
         "postal_code_label": "الرمز البريدي (اختياري)",
-        "postal_code_placeholder": "الرمز البريدي (اختياري)"
+        "postal_code_placeholder": "الرمز البريدي (اختياري)",
+        "ship_to_company": "شحن الى {{companyName}}"
       },
       "stock": {
         "quantity_column_header": "الكمية",
