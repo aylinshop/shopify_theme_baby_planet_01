@@ -563,12 +563,20 @@
         "deferred_payment_info": {
           "paid_today": "اجمالي المدفوع اليوم"
         }
+      },
+      "payment_gateway": {
+        "cash_on_delivery_label": "الدفع عند الأستلام"
       }
     },
     "sentence": {
       "words_connector": "و",
       "two_words_connector": "و",
       "last_word_connector": "و"
+    },
+    "notices": {
+      "order": {
+        "cash_on_delivery": "الدفع عند الأستلام"
+      }
     }
   },
   "customer_accounts": {
@@ -576,6 +584,11 @@
       "marketing_checkbox_label": "تلقي اخر العروض على البريد الالكتروني",
       "shipping": {
         "method": "منطقة الشحن"
+      },
+      "payment": {
+        "manual_payment_methods": {
+          "cash_on_delivery": "الدفع عند الأستلام - {{formattedTransactionAmount}}"
+        }
       }
     }
   }
