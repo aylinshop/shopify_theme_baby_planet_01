@@ -698,7 +698,26 @@
         "paid_label": "تم الدفع",
         "payment_due_label": "الدفع بواسطة",
         "vat_label_html": "تشمل {{amount}} الضرائب",
-        "price_label": "السعر"
+        "price_label": "السعر",
+        "discount_and_gift_card_savings_notice": "تبقى {{discount_amount}} في الخصومات و {{gift_card_amount}} في بطاقات الهدايا",
+        "discount_savings_notice": "تبقى {{discount_amount}} في الخصومات",
+        "gift_card_savings_notice": "تبقى {{gift_card_amount}} في بطاقات الهدايا",
+        "cost_table_title": "ملخص التكاليف",
+        "description_label": "الوصف",
+        "quantity_label": "الكمية",
+        "product_change_label": "تعديل",
+        "product_image_label": "صورة المنتج",
+        "scroll_order_summary": "قم بالتمرير لمزيد من العناصر",
+        "expand_order_summary": "إظهار ملخص الطلب",
+        "collapse_order_summary": "اخفاء ملخص الطلب",
+        "original_price": "السعر الاصلي",
+        "sale_price": "مبلغ الخصم",
+        "total_updated_label": "تحديث السعر كامل :",
+        "order_total_updated_label": "تحديث المجموع",
+        "total_already_paid_label": "تم الدفع بالفعل",
+        "gift_card_ending": "تنتهي بطاقة الهدايا بـ {{last_characters}}",
+        "estimated_tax_label": "الضريبة المقدرة",
+        "multiple_shipping_lines_label": "مجموع الشحن"
       },
       "payment_gateway": {
         "cash_on_delivery_label": "الدفع عند الأستلام"
