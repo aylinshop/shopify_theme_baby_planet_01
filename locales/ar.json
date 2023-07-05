@@ -637,7 +637,12 @@
         "contact_information_title": "معلومات الاتصال",
         "billing_address_title": "عنوان وصول الفواتير",
         "company_location_title": "المكان",
-        "shipping_address_title": "عنوان الشحن"
+        "shipping_address_title": "عنوان الشحن",
+        "tracking_number": "عنوان التتبع :",
+        "confirmed": "تأكيد",
+        "thank_you_title": "تم تأكيد الطلب",
+        "thank_you_title_payment": "تم تأكيد طريقة الدفع",
+        "thank_you_title_review": "تم تقديم طلبك للمراجعة"
       },
       "order_summary": {
         "deferred_payment_info": {
