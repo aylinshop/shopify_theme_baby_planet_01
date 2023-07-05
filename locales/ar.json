@@ -488,6 +488,10 @@
         "autocomplete_close": "اغلاق الاقتراحات",
         "errors": {
           "line_item_limit_reached": "لم يتم الوصول الى الحد الادنى من المشتريات"
+        },
+        "datepicker": {
+          "show_previous_month": "مشاهدة الشهر السابق, {{month}} {{year}}",
+          "show_next_month": "مشاهدة الشهر القادم, {{month}} {{year}}"
         }
       },
       "contact": {
@@ -522,7 +526,9 @@
         "zip_code_placeholder": "الرمز البريدي (اختياري)",
         "postal_code_label": "الرمز البريدي (اختياري)",
         "postal_code_placeholder": "الرمز البريدي (اختياري)",
-        "ship_to_company": "شحن الى {{companyName}}"
+        "ship_to_company": "شحن الى {{companyName}}",
+        "title": "المعلومات الشخصية",
+        "address_title": "العنوان"
       },
       "stock": {
         "quantity_column_header": "الكمية",
