@@ -550,7 +550,11 @@
         "continue_shopping_button_label": "اكمال التسوق",
         "go_back_to_cart_button_label": "الرجوع الى عربة التسوق",
         "remove": "ازالة",
-        "empty_cart_label": "عربة التسوق فارغة"
+        "empty_cart_label": "عربة التسوق فارغة",
+        "page_title": "الدفع",
+        "title": "إنتهى من المخزون",
+        "items_unavailable_notice": "بعض المنتجات لم تعد متوفرة. تم تحديث عربة التسوق.",
+        "product_column_header": "المنتجات"
       },
       "delivery_options": {
         "free_total_label": "مجانا",
