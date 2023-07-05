@@ -642,7 +642,8 @@
         "confirmed": "تأكيد",
         "thank_you_title": "تم تأكيد الطلب",
         "thank_you_title_payment": "تم تأكيد طريقة الدفع",
-        "thank_you_title_review": "تم تقديم طلبك للمراجعة"
+        "thank_you_title_review": "تم تقديم طلبك للمراجعة",
+        "in_transit_title": "طلبك في الطريق"
       },
       "order_summary": {
         "deferred_payment_info": {
