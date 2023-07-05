@@ -531,7 +531,9 @@
         "address_title": "العنوان",
         "shipping_used_as_billing_notice": "سيتم استخدام هذا أيضًا كعنوان لإرسال الفواتير لهذا الطلب.",
         "email_placeholder": "البريد الالكتروني",
-        "optional_first_name_label": "الاسم الاول (أختياري)"
+        "optional_first_name_label": "الاسم الاول (أختياري)",
+        "state_and_territory_label": "منطقة",
+        "state_and_territory_placeholder": "منطقة"
       },
       "stock": {
         "quantity_column_header": "الكمية",
