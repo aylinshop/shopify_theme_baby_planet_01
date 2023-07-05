@@ -554,7 +554,8 @@
         }
       },
       "shipping": {
-        "shipping_method_title": "منطقة الشحن"
+        "shipping_method_title": "منطقة الشحن",
+        "shipping_method_notice": "منطقة الشحن"
       },
       "thank_you": {
         "shipping_method_title": "منطقة الشحن"
