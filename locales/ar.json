@@ -643,7 +643,8 @@
         "title": "التوصيل",
         "free_rate_label": "مجانا",
         "please_enter_your_shipping_information_notice": "الرجاء ادخال معلومات الشحن",
-        "shipping_line_phone_label": "رقم الهاتف المحمول (مطلوب)"
+        "shipping_line_phone_label": "رقم الهاتف المحمول (مطلوب)",
+        "local_delivery": "تسليم محلي"
       },
       "thank_you": {
         "shipping_method_title": "منطقة الشحن",
