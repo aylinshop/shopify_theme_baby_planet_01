@@ -640,7 +640,9 @@
       "shipping": {
         "shipping_method_title": "منطقة الشحن",
         "shipping_method_notice": "منطقة الشحن",
-        "title": "التوصيل"
+        "title": "التوصيل",
+        "free_rate_label": "مجانا",
+        "please_enter_your_shipping_information_notice": "الرجاء ادخال معلومات الشحن"
       },
       "thank_you": {
         "shipping_method_title": "منطقة الشحن",
