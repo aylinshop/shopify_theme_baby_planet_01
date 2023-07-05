@@ -785,7 +785,10 @@
         "same_billing_address_label": "نفس عنوان الشحن",
         "different_credit_card_label": "استخدم بطاقة فيزا اخرى",
         "different_billing_address_label": "استخدام عنوان دفع اخر",
-        "use_different_credit_card_label": "استخدم بطاقة اخرى !"
+        "use_different_credit_card_label": "استخدم بطاقة اخرى !",
+        "paypal": {
+          "connect": "اضغط لربط حساب الباي بال"
+        }
       },
       "contextual_availability": {
         "title": {
