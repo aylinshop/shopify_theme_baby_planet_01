@@ -608,7 +608,14 @@
       },
       "marketing": {
         "accept_marketing_checkbox_label": "تلقي اخر العروض على البريد الالكتروني",
-        "accept_sms_checkbox_label": "تلقي الرسائل باَخر عروض المتجر"
+        "accept_sms_checkbox_label": "تلقي الرسائل باَخر عروض المتجر",
+        "sms": {
+          "disclaimer": {
+            "privacy_policy": "سياسة الخصوصية",
+            "terms_of_service": "سياسة الاستخدام"
+          },
+          "mobile_phone_number": "رقم الهاتف المحمول"
+        }
       },
       "review": {
         "blocks": {
@@ -798,6 +805,28 @@
           },
           "label": "لا يوجد توصيل"
         }
+      },
+      "shop_policies": {
+        "refund_policy": "سياسة الاسترجاع",
+        "privacy_policy": "سياسة الخصوصية",
+        "terms_of_service": "سياسة الاستخدام",
+        "shipping_policy": "سياسة الشحن"
+      },
+      "notifications": {
+        "title": "الاشعارات"
+      },
+      "order_payment_collection": {
+        "changes_summary": {
+          "added": {
+            "one": "اضافة"
+          },
+          "removed": "ازالة",
+          "subtracted": "{{ count }} تمت ازالة"
+        },
+        "pay_now": "دفع الان"
+      },
+      "change_currency": {
+        "payment_total_label": "مجموع الدفع"
       }
     },
     "sentence": {
