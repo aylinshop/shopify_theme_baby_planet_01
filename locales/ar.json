@@ -508,7 +508,9 @@
         "state_placeholder": "الحالة",
         "region_label": "المنطقة",
         "region_placeholder": "المنطقة",
-        "region_none": "غير موجود"
+        "region_none": "غير موجود",
+        "delivery_option_title": "طريقة التوصيل",
+        "stored_addresses_label": "حفظ"
       },
       "stock": {
         "quantity_column_header": "الكمية",
