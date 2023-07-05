@@ -533,7 +533,9 @@
         "email_placeholder": "البريد الالكتروني",
         "optional_first_name_label": "الاسم الاول (أختياري)",
         "state_and_territory_label": "منطقة",
-        "state_and_territory_placeholder": "منطقة"
+        "state_and_territory_placeholder": "منطقة",
+        "optional_phone_label": "الهاتف (اختياري)",
+        "phone_placeholder": "الهاتف"
       },
       "stock": {
         "quantity_column_header": "الكمية",
