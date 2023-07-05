@@ -632,7 +632,30 @@
       "order_summary": {
         "deferred_payment_info": {
           "paid_today": "اجمالي المدفوع اليوم"
-        }
+        },
+        "title": "ملخص الطلب",
+        "order_name_label": "طلب {{ name }}",
+        "shopping_cart_label": "عربة التسوق",
+        "discount_title": "الخصم",
+        "discount_label": "بطاقة الخصم",
+        "discount_placeholder": "رقم بطاقة الخصم",
+        "gift_card_title": "بطاقات الهدايا",
+        "gift_card_label": "بطاقة الهدايا",
+        "gift_card_placeholder": "رقم بطاقة الهدايا",
+        "gift_card_and_discount_title": "بطاقة الهدايا او رقم بطاقة الخصم",
+        "gift_card_and_discount_label": "بطاقة الهدايا او رقم بطاقة الخصم",
+        "gift_card_and_discount_placeholder": "بطاقة الهدايا او رقم بطاقة الخصم",
+        "remove_gift_card_label": "ازالة بطاقة الهدايا",
+        "remove_discount_label": "ازالة بطاقة الخصم",
+        "free_shipping_discount_label": "شحن مجاني",
+        "applied_free_shipping_discount_label": "تقدم",
+        "apply_discount_button_label": "تقدم",
+        "applied_discount_message": "خصم {{amount}} على إجمالي سعر الطلب",
+        "discount_has_been_applied": "تم تطبيق الخصم",
+        "discount_has_been_removed": "تمت إزالة الخصم",
+        "gift_card_has_been_applied": "تم تطبيق بطاقة الهدايا",
+        "gift_card_has_been_removed": "تمت إزالة بطاقة الهدايا",
+        "gift_card_subscriptions_notice": "ستنطبق بطاقات الهدايا على شراؤك الأول فقط"
       },
       "payment_gateway": {
         "cash_on_delivery_label": "الدفع عند الأستلام"
@@ -668,7 +691,8 @@
           "title": {
             "one": "لا يوجد تسليم متاح لمنتج {{count}}",
             "other": "لا يوجد تسليم متاح لمنتج {{count}}"
-          }
+          },
+          "label": "لا يوجد توصيل"
         }
       }
     },
