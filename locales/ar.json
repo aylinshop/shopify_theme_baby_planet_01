@@ -510,7 +510,11 @@
         "region_placeholder": "المنطقة",
         "region_none": "غير موجود",
         "delivery_option_title": "طريقة التوصيل",
-        "stored_addresses_label": "حفظ"
+        "stored_addresses_label": "حفظ",
+        "zip_code_label": "الرمز البريدي (اختياري)",
+        "zip_code_placeholder": "الرمز البريدي (اختياري)",
+        "postal_code_label": "الرمز البريدي (اختياري)",
+        "postal_code_placeholder": "الرمز البريدي (اختياري)"
       },
       "stock": {
         "quantity_column_header": "الكمية",
