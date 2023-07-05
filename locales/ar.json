@@ -552,6 +552,12 @@
         "blocks": {
           "shipping_address_title": "عنوان الاستلام"
         }
+      },
+      "shipping": {
+        "shipping_method_title": "منطقة الشحن"
+      },
+      "thank_you": {
+        "shipping_method_title": "منطقة الشحن"
       }
     },
     "sentence": {
@@ -562,7 +568,10 @@
   },
   "customer_accounts": {
     "order_details": {
-      "marketing_checkbox_label": "تلقي اخر العروض على البريد الالكتروني"
+      "marketing_checkbox_label": "تلقي اخر العروض على البريد الالكتروني",
+      "shipping": {
+        "method": "منطقة الشحن"
+      }
     }
   }
 }
