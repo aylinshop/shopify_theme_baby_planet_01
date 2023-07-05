@@ -627,7 +627,11 @@
       },
       "thank_you": {
         "shipping_method_title": "منطقة الشحن",
-        "payment_method_title": "طريقة الدفع"
+        "payment_method_title": "طريقة الدفع",
+        "payment_information_title": "طريقة الدفع",
+        "shipping_information_title": "الشحن",
+        "page_title": "شكرًا لك {{display_name}}!",
+        "page_title_no_name": "شكرا على ثقتكم بنا !"
       },
       "order_summary": {
         "deferred_payment_info": {
