@@ -780,7 +780,8 @@
         }
       },
       "payment": {
-        "card_security_notice": "جميع طرق الدفع محمية"
+        "card_security_notice": "جميع طرق الدفع محمية",
+        "billing_address_description": "حدد العنوان الذي يتطابق مع بطاقة الفيزا أو طريقة الدفع الخاصة بك."
       },
       "contextual_availability": {
         "title": {
