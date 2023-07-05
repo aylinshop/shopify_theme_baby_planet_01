@@ -618,8 +618,16 @@
           "payment_method_title": "طريقة الدفع",
           "change_contact_method_link_label": "تعديل",
           "change_shipping_method_link_label": "تعديل",
-          "change_payment_method_link_label": "تعديل"
-        }
+          "change_payment_method_link_label": "تعديل",
+          "billing_address_title": "عنوان الشحن",
+          "change_link_label": "تعديل",
+          "change_billing_address_link_label": "تعديل عنوان الشحن",
+          "change_shipping_address_link_label": "تعديل عنوان الشحن"
+        },
+        "title": "مراجعة",
+        "review_title": "مراجعة الطلب",
+        "checkout_as_guest": "شراء بدون تسجيل",
+        "block_title": "راجع معلوماتك الشخصية"
       },
       "shipping": {
         "shipping_method_title": "منطقة الشحن",
@@ -657,6 +665,10 @@
         "qr_code": {
           "send_link_to_phone": "ارسال رابط الى هاتفك",
           "title": "تتبع من خلال الهاتف"
+        },
+        "gift_card_email_title": {
+          "one": "تم ارسال بطاقة الهدايا الى البريد الالكتروني",
+          "other": "تم ارساله الى البريد الالكتروني"
         }
       },
       "order_summary": {
