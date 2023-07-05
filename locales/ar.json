@@ -782,7 +782,10 @@
       "payment": {
         "card_security_notice": "جميع طرق الدفع محمية",
         "billing_address_description": "حدد العنوان الذي يتطابق مع بطاقة الفيزا أو طريقة الدفع الخاصة بك.",
-        "same_billing_address_label": "نفس عنوان الشحن"
+        "same_billing_address_label": "نفس عنوان الشحن",
+        "different_credit_card_label": "استخدم بطاقة فيزا اخرى",
+        "different_billing_address_label": "استخدام عنوان دفع اخر",
+        "use_different_credit_card_label": "استخدم بطاقة اخرى !"
       },
       "contextual_availability": {
         "title": {
