@@ -273,6 +273,7 @@
     "social_title_clr": "#fff",
     "social_icon_clr": "#fff",
     "social__icon_hoverclr": "#fff",
+    "checkout_header_image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-07-06_at_12.39.11_PM.jpg",
     "checkout_use_storefront_logo": true,
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
