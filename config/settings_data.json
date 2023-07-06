@@ -60,7 +60,7 @@
     "to_top_txt_color": "#ffffff",
     "to_top_hvrbg_color": "#00d4c5",
     "to_top_hvrtxt_color": "#ffffff",
-    "top_to_btm": true,
+    "top_to_btm": false,
     "show_slideshow": true,
     "slide_1": true,
     "type_alignment_1": "right_align",
