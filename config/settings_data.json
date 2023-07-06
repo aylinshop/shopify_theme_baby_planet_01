@@ -3,7 +3,7 @@
     "logo_use_image": true,
     "logo_max_height": "100",
     "logo_mob_height": "70",
-    "favicon_enable": false,
+    "favicon_enable": true,
     "preloader_enable": false,
     "base_font": "Google+Droid+Sans",
     "header_font": "Google+Comfortaa",
