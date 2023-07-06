@@ -1200,7 +1200,7 @@
     "settings": [
       {
         "type": "checkbox",
-        "id": "top_to_btma",
+        "id": "top_to_btm",
         "label": "Top to Bottom Image ?"
       },
       {
