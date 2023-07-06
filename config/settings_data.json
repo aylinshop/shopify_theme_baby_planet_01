@@ -61,7 +61,7 @@
     "to_top_hvrbg_color": "#00d4c5",
     "to_top_hvrtxt_color": "#ffffff",
     "top_to_btm": true,
-    "show_slideshow": true,
+    "show_slideshow": false,
     "slide_1": true,
     "type_alignment_1": "right_align",
     "slider1_title": "Baby Accessories",
