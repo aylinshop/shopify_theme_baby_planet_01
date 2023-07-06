@@ -60,7 +60,7 @@
     "to_top_txt_color": "#ffffff",
     "to_top_hvrbg_color": "#00d4c5",
     "to_top_hvrtxt_color": "#ffffff",
-    "top_to_btm": true,
+    "top_to_btm": false,
     "show_slideshow": true,
     "slide_1": true,
     "type_alignment_1": "right_align",
@@ -2789,15 +2789,7 @@
       "1500115537418",
       "1571379857845",
       "1498206467945"
-    ],
-    "blocks": {
-      "8208493610395315515": {
-        "type": "shopify:\/\/apps\/dondy-whatsapp-chat-widget\/blocks\/app-block\/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
   }
