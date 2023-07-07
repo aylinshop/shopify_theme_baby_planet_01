@@ -1626,7 +1626,7 @@
         "type": "sidebar-category",
         "settings": {
           "enable_sidecategory": true,
-          "linkedlist": "link-list",
+          "linkedlist": "link-list-1",
           "linkedlist_title": "التصنيف"
         }
       },
