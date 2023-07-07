@@ -49,6 +49,35 @@
       {% include 'collection-sidebar' %}
     </div>
     {% endif %}
+
+
+    {% assign current = collection.handle %}
+{% if collection.title contains '/' %}
+
+  {% assign words = collection.title | split: '/' %}
+  {% assign section = words[0] | handleize %}
+  {% for collection in collections %}
+    {% if collection.handle contains section and collection.title contains '/' %}            
+      <a href="/collections/{{ collection.handle }}">
+        {% assign words = collection.title | split: '/' %}
+        {{ words[1] }}
+      </a><br />
+    {% endif %}    
+  {% endfor %}
+
+{% else %}
+  {% if collection.handle %}
+    {% for collection in collections %}
+      {% if collection.handle contains current and collection.title contains '/' %}            
+        <a href="/collections/{{ collection.handle }}">
+          {% assign words = collection.title | split: '/' %}
+          {{ words[1] }}
+        </a><br />
+      {% endif %}    
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
    
 
 
