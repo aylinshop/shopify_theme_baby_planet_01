@@ -1779,12 +1779,21 @@
               "shop_by_tags_title": "Shop By Types",
               "shop_by_tags_list": "Baby Seats,Clothes,Bag,\tToys,Shoes, Anchor,Ropes,Gloves"
             }
+          },
+          "dad18da3-1cb5-4934-b28a-6aefa61ae753": {
+            "type": "text",
+            "settings": {
+              "enable_shop_by_tags": true,
+              "shop_by_tags_title": "تسوق حسب الحجم",
+              "shop_by_tags_list": "سمول"
+            }
           }
         },
         "block_order": [
           "1477476983857",
           "1477477078599",
-          "1486453499362"
+          "1486453499362",
+          "dad18da3-1cb5-4934-b28a-6aefa61ae753"
         ],
         "settings": {
         }
