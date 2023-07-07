@@ -487,11 +487,15 @@
         "print_policies_link_label": "طباعة",
         "autocomplete_close": "اغلاق الاقتراحات",
         "errors": {
-          "line_item_limit_reached": "لم يتم الوصول الى الحد الادنى من المشتريات"
+          "line_item_limit_reached": "لم يتم الوصول الى الحد الادنى من المشتريات",
+          "session_identifier_not_unique_error": "حدث خطأ ما في طلبك ، يرجى محاولة التحقق مرة أخرى."
         },
         "datepicker": {
           "show_previous_month": "مشاهدة الشهر السابق, {{month}} {{year}}",
-          "show_next_month": "مشاهدة الشهر القادم, {{month}} {{year}}"
+          "show_next_month": "مشاهدة الشهر القادم, {{month}} {{year}}",
+          "range_start": "متوسط",
+          "in_range": "من",
+          "range_end": "الى"
         }
       },
       "contact": {
@@ -539,7 +543,15 @@
         "postcode_label": "الرمز البريدي",
         "postcode_placeholder": "الرمز البريدي",
         "change_company_location_link_label": "تغير عنوان الشركة",
-        "change_location_link_label": "تغير العنوان"
+        "change_location_link_label": "تغير العنوان",
+        "prefecture_placeholder": "محافظة",
+        "governorate_label": "محافظة",
+        "governorate_placeholder": "محافظة",
+        "emirate_label": "ولاية",
+        "emirate_placeholder": "ولاية",
+        "phone_tooltip": "في حال احتجنا للتواصل معك بخصوص طلبك",
+        "civic_number_warning": "أضف رقم المنزل إذا كان لديك واحد",
+        "optional_last_name_label": "Last name (optional)"
       },
       "stock": {
         "quantity_column_header": "الكمية",
@@ -598,7 +610,9 @@
         "pick_up_immediately": "جاهز للأستلام !",
         "pick_up_next_day": "جاهز للاستلام غدا",
         "pickup_point_method_definition": "شحن الى نقطة الاستلام",
-        "none_method_definition": "لا يوجد شحن"
+        "none_method_definition": "لا يوجد شحن",
+        "retail_method_definition": "الشحن مجزء",
+        "subscription_pickup_information": "سيتم تطبيق طريقة التسليم هذه على جميع العناصر في هذا الطلب وجميع الطلبات المستقبلية لهذا الاشتراك."
       },
       "customer_account": {
         "sign_in_link_label": "تسجيل الدخول",
@@ -644,7 +658,12 @@
         "free_rate_label": "مجانا",
         "please_enter_your_shipping_information_notice": "الرجاء ادخال معلومات الشحن",
         "shipping_line_phone_label": "رقم الهاتف المحمول (مطلوب)",
-        "local_delivery": "تسليم محلي"
+        "local_delivery": "تسليم محلي",
+        "shipping_method_one_time_purchase_group_title": "شراء لمرة واحدة",
+        "shipping_method_subscription_group_title": "الاشتراك",
+        "subscription_shipping": "الاشتراك بالشحن",
+        "subscription_local_delivery": "الاشتراك بالتوصيل المحلي",
+        "subscription_pickup": "اشتراك بالتسليم"
       },
       "thank_you": {
         "shipping_method_title": "منطقة الشحن",
@@ -686,7 +705,11 @@
       },
       "order_summary": {
         "deferred_payment_info": {
-          "paid_today": "اجمالي المدفوع اليوم"
+          "paid_today": "اجمالي المدفوع اليوم",
+          "title": "دفع {{amount_due}} مستحق في {{due_at}}",
+          "description_html": "للأسئلة حول طلبك ، {{ contact_us }}.",
+          "due_on_fulfillment_title": "دفع مبلغ {{amount_due}} مستحق عند التجهيز",
+          "due_on_receipt_title": "دفع مبلغ {{amount_due}} مستحق عند الاستلام"
         },
         "title": "ملخص الطلب",
         "order_name_label": "طلب {{ name }}",
@@ -772,7 +795,37 @@
         "error_duties_tooltip": "يتم شحن هذا الطلب من بلد آخر ، لذلك قد يتم فرض رسوم وضرائب عند التسليم.",
         "may_be_charged_on_delivery": "قد يتم فرض رسوم عند التسليم",
         "total_updated_label_with_price": "السعر الإجمالي المحدث: {{totalPrice}}",
-        "recurring_payments": "تكرار الدفع"
+        "recurring_payments": "تكرار الدفع",
+        "unit_price": {
+          "accessible_separator": "لكل"
+        },
+        "payment_terms_totals": {
+          "due_today": "الإجمالي اليوم",
+          "due_later": "الإجمالي المستحق {{due_at}}",
+          "due_on_fulfillment": "المبلغ الإجمالي المستحق عند الاستلام",
+          "due_on_receipt": "المبلغ الإجمالي المستحق عند الاستلام",
+          "due_later_checkout_to_draft": "الإجمالي المستحق لاحقًا"
+        },
+        "recurring_total_multiple_label": "هذا الطلب له رسوم متكررة لعناصر متعددة.",
+        "deferred_total_due_date_label": "إجمالي موعد التسليم {{date}}",
+        "full_price": "السعر الكامل: {{ price }}",
+        "custom_discount": "خصم مخصص",
+        "expand_component_information": {
+          "one": "إظهار عنصر {{count}}",
+          "other": "إظهار عناصر {{count}}"
+        },
+        "collapse_component_information": {
+          "one": "إخفاء {{count}} عنصر",
+          "other": "إخفاء {{count}} عناصر"
+        },
+        "discount_discovery": {
+          "add_code": "أضف الخصم",
+          "merchandise_quantity_label": {
+            "one": "{{count}} عنصر",
+            "other": "{{count}} عناصر"
+          }
+        },
+        "alternative_payment_currency_total": "تم تحصيل الرسوم كـ {{ amount_due }}"
       },
       "payment_gateway": {
         "cash_on_delivery_label": "الدفع عند الأستلام"
@@ -819,7 +872,11 @@
             "one": "لا يوجد تسليم متاح لمنتج {{count}}",
             "other": "لا يوجد تسليم متاح لمنتج {{count}}"
           },
-          "label": "لا يوجد توصيل"
+          "label": "لا يوجد توصيل",
+          "message": {
+            "one": "ستتم إزالة هذا العنصر من سلة التسوق الخاصة بك لأنه لا توجد طرق توصيل متاحة لعنوانك.",
+            "other": "ستتم إزالة هذه العناصر من سلة التسوق الخاصة بك لأنه لا توجد طرق توصيل متاحة لعنوانك."
+          }
         }
       },
       "shop_policies": {
