@@ -1659,7 +1659,8 @@
           "1478078538877": {
             "type": "content",
             "settings": {
-              "promo_link": "",
+              "promo_img": "shopify:\/\/shop_images\/WhatsApp_Image_2023-07-04_at_12.59.32_AM.jpg",
+              "promo_link": "shopify:\/\/collections\/ملابس-0-3-سنوات",
               "promo_title": ""
             }
           }
@@ -1668,6 +1669,9 @@
           "1477474976957",
           "1477475002420",
           "1478078538877"
+        ],
+        "custom_css": [
+
         ],
         "settings": {
         }
