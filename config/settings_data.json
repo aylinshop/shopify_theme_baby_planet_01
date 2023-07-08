@@ -1780,7 +1780,7 @@
             "settings": {
               "enable_shop_by_tags": true,
               "shop_by_tags_title": "تسوق حسب الحجم",
-              "shop_by_tags_list": "سمول"
+              "shop_by_tags_list": "S, M"
             }
           }
         },
