@@ -1,0 +1,114 @@
+
+ <!-- scriptburn-whatsapp-snippet start  -->
+
+<div id="loading"> <img id="loading-image" src="http://i.stack.imgur.com/FhHRx.gif" alt="Loading..." /><span id="loading-span">Please wait..</span>
+</div>
+
+<style type="text/css">
+.modal {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 ) 
+                url('http://i.stack.imgur.com/FhHRx.gif') 
+                50% 50% 
+                no-repeat;
+}
+
+
+body.loading {
+    overflow: hidden;   
+}
+
+ 
+body.loading .modal {
+    display: block;
+}
+  
+  
+  #loading {
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   position: fixed;
+   display: block;
+   opacity: 0.7;
+   background-color: #fff;
+   z-index: 99;
+   text-align: center;
+    display:none;
+}
+
+#loading-image {
+    position: absolute;
+     left: 240px;
+    z-index: 100;
+    left: 50%;
+    top: 50%;
+} 
+  
+  #loading-span {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    padding-left: 40px;
+    font-size: .7em;
+    padding-top: 5px;
+  } 
+   
+
+  
+</style>
+
+<script type="text/javascript">
+ 
+/* 
+	Copyright scriptburn.com 2017  
+	<Rajneesh ojha>codexian.ltd@gmail.com 
+*/
+  function getWhatsAppLink(number, message) {
+    url = "https://api.whatsapp.com/send?phone=" + number + "&text=" + encodeURI(message + " " + "Maxmara Floral Black");
+    return '<a class="whp-loading"  onclick="fbq(' + "'track', 'AddToCart');" + '" href="' + url + '"><img src="https://cdn.shopify.com/s/files/1/2325/9579/files/ezgif-2-6798d532b2.gif?13901611832802905030" /></a>';
+
+}
+
+function addWhatsAppLink(elem, location, message) {
+    var top_random = ['3453453', '34534534'];
+    var bot_random = ['4545345345', '34534534'];
+    if (location == 'top') {
+        number = top_random[Math.floor(Math.random() * top_random.length)];
+    } else {
+        number = top_random[Math.floor(Math.random() * bot_random.length)];
+    }
+
+    document.getElementById(elem).innerHTML = getWhatsAppLink(number, message);
+}
+function sleepFor( sleepDuration ){
+    var now = new Date().getTime();
+    while(new Date().getTime() <now + sleepDuration){ /* do nothing */ } 
+}
+
+  function attachPopUpMessage() {
+    var element = document.getElementsByClassName('whp-loading');
+    for (var i = 0; i <element.length; i++) 
+    {
+
+        element[i].addEventListener("click", function(e) 
+        {
+
+           document.getElementById('loading').style.display='block'
+           var slp=1;
+
+        }, false);
+    }
+}
+ 
+</script>
+
+ <!-- scriptburn-whatsapp-snippet end  -->
+ 
